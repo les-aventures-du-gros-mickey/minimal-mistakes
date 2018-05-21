@@ -1,0 +1,6 @@
+<figure style="display: inline-block; margin: 5px;">
+    <img src="/assets/images/{{ include.file }}" alt="{{ include.description }}">
+    {% if include.description %}
+        <figcaption style="text-align: center;">{{ include.description }}</figcaption>
+    {% endif %}
+</figure>

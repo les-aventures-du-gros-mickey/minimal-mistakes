@@ -1,12 +1,41 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Aventures"
+    url: /GR-70/preambule/
+
+# adventures links
+adventures:
+  - title: "28/04/2018 : le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    children:
+      - title: "Préambule"
+        url: /GR-70/preambule/
+      - title: "28/04/2018 : du Puy-en-Velay au Cros"
+        url: /GR-70/J1/
+      - title: "29/04/2018 : du Cros à Landos"
+        url: /GR-70/J2/
+      - title: "30/04/2018 : de Landos aux Brugeyrolles"
+        url: /GR-70/J3/
+      - title: "01/05/2018 : des Brugeyrolles à Luc"
+        url: /GR-70/J4/
+      - title: "02/05/2018 : de Luc à Chasseradès"
+        url: /GR-70/J5/
+      - title: "03/05/2018 : de Chasseradès au Bleymard"
+        url: /GR-70/J6/
+      - title: "04/05/2018 : du Bleymard au Pont-de-Montvert"
+        url: /GR-70/J7/
+      - title: "05/05/2018 : du Pont-de-Montvert à Florac"
+        url: /GR-70/J8/
+      - title: "06/05/2018 : de Florac à Saint-Germain-de-Calberte"
+        url: /GR-70/J9/
+      - title: "07/05/2018 : de Saint-Germain-de-Calberte à Saint-Jean-du-Gard"
+        url: /GR-70/J10/
+      - title: "08/05/2018 : de Saint-Jean-du-Gard à Alès"
+        url: /GR-70/J11/
+      - title: "Bilan moral"
+        url: /GR-70/bilan-moral/
+      - title: "Bilan technique"
+        url: /GR-70/bilan-technique/
+      - title: "Mot final"
+        url: /GR-70/mot-final/
+      - title: "Références"
+        url: /GR-70/references/
