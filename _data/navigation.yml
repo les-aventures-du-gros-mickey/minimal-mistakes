@@ -39,3 +39,15 @@ adventures:
         url: /GR-70/mot-final/
       - title: "Références"
         url: /GR-70/references/
+  - title: "10/05/2018 : 96h non-stop 2018"
+    children:
+      - title: "10/05/2018 : Départ, VTT, olympiades et dégustation"
+        url: /96h-2018/J1/
+      - title: "11/05/2018 : Canoë et jeu de piste"
+        url: /96h-2018/J2/
+      - title: "12/05/2018 : Randonnée, tyrolienne, grue et tétanie"
+        url: /96h-2018/J3/
+      - title: "13/05/2018 : Relais, radeau et course finale"
+        url: /96h-2018/J4/
+      - title: "Film complet"
+        url: /96h-2018/film/
