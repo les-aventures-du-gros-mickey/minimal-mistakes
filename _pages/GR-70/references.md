@@ -1,6 +1,8 @@
 ﻿---
 title: "Références"
 permalink: /GR-70/references/
+sidebar:
+  nav: "gr_70"
 ---
 
 Voilà les diverses références cachées :)

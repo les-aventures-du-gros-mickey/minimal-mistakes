@@ -1,6 +1,8 @@
 ﻿---
 title: "Bilan moral"
 permalink: /GR-70/bilan-moral/
+sidebar:
+  nav: "gr_70"
 ---
 
 ## Solo

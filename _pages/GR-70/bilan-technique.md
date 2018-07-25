@@ -1,6 +1,8 @@
 ﻿---
 title: "Bilan technique"
 permalink: /GR-70/bilan-technique/
+sidebar:
+  nav: "gr_70"
 ---
 
 ## Randonnée

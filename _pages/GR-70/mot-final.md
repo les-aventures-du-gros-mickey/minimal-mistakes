@@ -1,6 +1,8 @@
 ﻿---
 title: "Mot final"
 permalink: /GR-70/mot-final/
+sidebar:
+  nav: "gr_70"
 ---
 
 La vie, c'est comme la randonnée :

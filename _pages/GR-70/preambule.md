@@ -1,6 +1,8 @@
 ﻿---
 title: "Préambule"
 permalink: /GR-70/preambule/
+sidebar:
+  nav: "gr_70"
 ---
 
 {% include image.html file="GR-70/preambule/P1050591.JPG" %}

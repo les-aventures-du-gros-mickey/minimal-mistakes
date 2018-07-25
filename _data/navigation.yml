@@ -5,31 +5,39 @@ main:
 
 # adventures links
 adventures:
-  - title: "28/04/2018 : le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+
+gr_70:
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     children:
       - title: "Préambule"
         url: /GR-70/preambule/
-      - title: "28/04/2018 : du Puy-en-Velay au Cros"
+      - title: "Du Puy-en-Velay au Cros"
         url: /GR-70/J1/
-      - title: "29/04/2018 : du Cros à Landos"
+      - title: "Du Cros à Landos"
         url: /GR-70/J2/
-      - title: "30/04/2018 : de Landos aux Brugeyrolles"
+      - title: "De Landos aux Brugeyrolles"
         url: /GR-70/J3/
-      - title: "01/05/2018 : des Brugeyrolles à Luc"
+      - title: "Des Brugeyrolles à Luc"
         url: /GR-70/J4/
-      - title: "02/05/2018 : de Luc à Chasseradès"
+      - title: "De Luc à Chasseradès"
         url: /GR-70/J5/
-      - title: "03/05/2018 : de Chasseradès au Bleymard"
+      - title: "De Chasseradès au Bleymard"
         url: /GR-70/J6/
-      - title: "04/05/2018 : du Bleymard au Pont-de-Montvert"
+      - title: "Du Bleymard au Pont-de-Montvert"
         url: /GR-70/J7/
-      - title: "05/05/2018 : du Pont-de-Montvert à Florac"
+      - title: "Du Pont-de-Montvert à Florac"
         url: /GR-70/J8/
-      - title: "06/05/2018 : de Florac à Saint-Germain-de-Calberte"
+      - title: "De Florac à Saint-Germain-de-Calberte"
         url: /GR-70/J9/
-      - title: "07/05/2018 : de Saint-Germain-de-Calberte à Saint-Jean-du-Gard"
+      - title: "De Saint-Germain-de-Calberte à Saint-Jean-du-Gard"
         url: /GR-70/J10/
-      - title: "08/05/2018 : de Saint-Jean-du-Gard à Alès"
+      - title: "De Saint-Jean-du-Gard à Alès"
         url: /GR-70/J11/
       - title: "Bilan moral"
         url: /GR-70/bilan-moral/
@@ -39,15 +47,67 @@ adventures:
         url: /GR-70/mot-final/
       - title: "Références"
         url: /GR-70/references/
-  - title: "10/05/2018 : 96h non-stop 2018"
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+
+96h_2018:
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
     children:
-      - title: "10/05/2018 : Départ, VTT, olympiades et dégustation"
+      - title: "Départ, VTT, olympiades et dégustation"
         url: /96h-2018/J1/
-      - title: "11/05/2018 : Canoë et jeu de piste"
+      - title: "Canoë et jeu de piste"
         url: /96h-2018/J2/
-      - title: "12/05/2018 : Randonnée, tyrolienne, grue et tétanie"
+      - title: "Randonnée, tyrolienne, grue et tétanie"
         url: /96h-2018/J3/
-      - title: "13/05/2018 : Relais, radeau et course finale"
+      - title: "Relais, radeau et course finale"
         url: /96h-2018/J4/
       - title: "Film complet"
         url: /96h-2018/film/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+
+sicile:
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    children:
+      - title: "Présentation des mafiosi"
+        url: /Sicile/mafiosi/
+      - title: "Arrivée à Catania"
+        url: /Sicile/J1/
+      - title: "Siracusa"
+        url: /Sicile/J2/
+      - title: "Taormina"
+        url: /Sicile/J3/
+      - title: "Etna"
+        url: /Sicile/J4/
+      - title: "Milazzo"
+        url: /Sicile/J5/
+      - title: "Lipari"
+        url: /Sicile/J6/
+      - title: "Stromboli"
+        url: /Sicile/J7/
+      - title: "De Stromboli à Palermo"
+        url: /Sicile/J8/
+      - title: "Palermo"
+        url: /Sicile/J9/
+      - title: "Erice et Zingaro"
+        url: /Sicile/J10/
+      - title: "Monreale et Caccamo"
+        url: /Sicile/J11/
+      - title: "Cefalù et Madonie"
+        url: /Sicile/J12/
+      - title: "Enna et Lago Pozzillo"
+        url: /Sicile/J13/
+      - title: "Nebrodi"
+        url: /Sicile/J14/
+      - title: "Torre Faro et Acireale"
+        url: /Sicile/J15/
+      - title: "En bref"
+        url: /Sicile/bref/
