@@ -11,6 +11,8 @@ adventures:
     url: /96h-2018/J1/
   - title: "I mafiosi in Sicilia"
     url: /Sicile/mafiosi/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
 
 gr_70:
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -51,6 +53,8 @@ gr_70:
     url: /96h-2018/J1/
   - title: "I mafiosi in Sicilia"
     url: /Sicile/mafiosi/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
 
 96h_2018:
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -69,6 +73,8 @@ gr_70:
         url: /96h-2018/film/
   - title: "I mafiosi in Sicilia"
     url: /Sicile/mafiosi/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
 
 sicile:
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -111,3 +117,23 @@ sicile:
         url: /Sicile/J15/
       - title: "En bref"
         url: /Sicile/bref/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+
+modane_briancon:
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "De Modane à Briançon"
+    children:
+      - title: "De Modane au Lac Peyron"
+        url: /Modane-Briancon/J1/
+      - title: "Du Lac Peyron au Clot des Vaches"
+        url: /Modane-Briancon/J2/
+      - title: "Du Clot des Vaches à Chénou"
+        url: /Modane-Briancon/J3/
+      - title: "De Chénou à Briançon"
+        url: /Modane-Briancon/J4/
