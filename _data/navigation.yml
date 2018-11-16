@@ -13,6 +13,8 @@ adventures:
     url: /Sicile/mafiosi/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
 
 gr_70:
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -55,6 +57,8 @@ gr_70:
     url: /Sicile/mafiosi/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
 
 96h_2018:
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -75,6 +79,8 @@ gr_70:
     url: /Sicile/mafiosi/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
 
 sicile:
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -119,6 +125,8 @@ sicile:
         url: /Sicile/bref/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
 
 modane_briancon:
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -137,3 +145,29 @@ modane_briancon:
         url: /Modane-Briancon/J3/
       - title: "De Chénou à Briançon"
         url: /Modane-Briancon/J4/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+
+piton_butor:
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    children:
+      - title: "De la Plaîne des Palmistes au refuge de la Caverne du Four"
+        url: /Piton-Butor/J1/
+      - title: "Ascension du Piton des Neiges et descente jusqu'au gîte de Bélouve"
+        url: /Piton-Butor/J2/
+      - title: "Du gîte de Bélouve à l'Eden"
+        url: /Piton-Butor/J3/
+      - title: "De l'Eden au Butor"
+        url: /Piton-Butor/J4/
+      - title: "Itinéraire complet"
+        url: /Piton-Butor/itineraire-complet/
+      - title: "Bonus"
+        url: /Piton-Butor/bonus/
