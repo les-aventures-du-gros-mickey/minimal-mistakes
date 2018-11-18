@@ -7,7 +7,7 @@ sidebar:
 
 Voilà les diverses références cachées :)
 
-## 28/04/2018 : du Puy au Cros
+## Du Puy-en-Velay au Cros
 
 * "1 km à pied, ça use, ça use !", chanson enfantine
 * "Moi vouloir être chat", Pow Wow, Le Chat, 1992
@@ -15,13 +15,13 @@ Voilà les diverses références cachées :)
 * "Au soleil", Jenifer, Au soleil, 2002
 * "Un p'tit coin d'paradis", Georges Brassens, Le Parapluie, 1952
 
-## 29/04/2018 : du Cros à Landos
+## Du Cros à Landos
 
 * "Un rayon de soleil", William Baldé, Rayon de soleil, 2008
 * "Il pleut, il pleut, bergère", Fabre d'Églantine, Il pleut, il pleut, bergère, 1780
 * "J'ai le temps pour un café", Oldelaf, La Café, 2006
 
-## 30/04/2018 : de Landos aux Brugeyrolles
+## De Landos aux Brugeyrolles
 
 * "Il n'y avait jamais de beau temps, dans ce pauvre paysage", Georges Brassens, Le Petit Cheval, 1952
 * "Meuh meuh meuh font les vaches", Marcel et son orchestre, Les Vaches, 1990
@@ -30,7 +30,7 @@ Voilà les diverses références cachées :)
 * "Si j'fais pas ma siesta peinard tranquille...", Merzhin, L'Hacienda, 2000
 * "Apéro !", n'importe quel gugusse de n'importe quelle festival de metal de n'importe quelle année :)
 
-## 01/05/2018 : des Brugeyrolles à Luc
+## Des Brugeyrolles à Luc
 
 * "Dans la forêt lointaine, on entend le coucou", comptine traditionnelle, Dans la forêt lointaine
 * "Quand te reverrai-je, pays merveilleux ?", Michel Blanc, Les bronzés font du ski, 1979
@@ -38,7 +38,7 @@ Voilà les diverses références cachées :)
 * "Ô temps, suspends ton vol !", Alphonse de Lamartine, Le lac, 1820
 * "Lapin, lapin !", publicité Kiss Cool, 1995
 
-## 02/05/2018 : de Luc à Chasseradès
+## De Luc à Chasseradès
 
 * "Il est où le cucul ? Elle est où la têtête ?", Didier Bourdon, Les Trois Frères, 1995
 * "Je marche seul", Jean-Jacques Goldman, Je marche seul, 1985
@@ -47,14 +47,14 @@ Voilà les diverses références cachées :)
 * "Vous écoutez radio p'tits oiseaux cui-cui, les p'tits chiens wouf-wouf, les p'tites abeilles biz-biz et les ptits dauphins claqueti-claqueti-claqueti", François Pérusse, Les 2 minutes du peuple, Radio cui-cui 5
 * "Tente Maréchal, 4 places adulte, 2 places enfant, ventilation latérale, coutures étanches, double toit, tapis de sol polyéthisé", Franck Dubosc, Camping, 2006
 
-## 03/05/2018 : de Chasseradès au Bleymard
+## De Chasseradès au Bleymard
 
 * "Sous le vent", Garou et Céline Dion, Sous le vent, 2001
 * "Mon beau sapin", Ernst Anschütz, Mon beau sapin, 1824
 * "Ha ! Qu'est-ce qu'on est serré, au fond de cette boîte, chantent les sardines, chantent les sardines", Patrick Sébastien, Les Sardines, 2006
 * "Cause we are here, to drink your beer", Alestorm, Drink, 2014
 
-## 04/05/2018 : du Bleymard au Pont-de-Montvert
+## Du Bleymard au Pont-de-Montvert
 
 * "They can't tell me what to do", Omnia, Dance Until We Die, 2010
 * "Si mignon mignon mignon", René la Taupe, Mignon Mignon, 2010
@@ -65,7 +65,7 @@ Voilà les diverses références cachées :)
 * "Auprès de mon arbre, je vivais heureux", Georges Brassens, Auprès de mon arbre, 1956
 * "Voilà l'été", Les Négresses vertes, Voilà l'été, 1988
 
-## 05/05/2018 : du Pont-de-Montvert à Florac
+## Du Pont-de-Montvert à Florac
 
 * "Vas-y Francky c'est bon", Francky Vincent, Fruit de la passion, 1991
 * "Ce n'est qu'un au revoir", Jacques Sevin, Ce n'est qu'un au revoir, 1920
@@ -75,7 +75,7 @@ Voilà les diverses références cachées :)
 * "Envoyez des sioux !", Les Nuls, Écrivez à l'Arc, 1987
 * "Nétwayé, baléyé, astiké", Zouk Machine, Maldòn, 1990
 
-## 06/05/2018 : de Florac à Saint-Germain-de-Calberte
+## De Florac à Saint-Germain-de-Calberte
 
 * "Ce n'est pas un bogue, c'est une fonctionnalité", dicton de développeurs :)
 * "Et Gildas la limace", Les Fatals Picards, La Ferme, 2005
@@ -86,13 +86,13 @@ Voilà les diverses références cachées :)
 * "Écoute l'âne, si c'était mon pet, tu serais déja mort !", Shrek, Shrek, 2001
 * "Ô rage ! Ô désespoir !", Corneille, Le Cid, 1637
 
-## 07/05/2018 : de Saint-Germain-de-Calberte à Saint-Jean-du-Gard
+## De Saint-Germain-de-Calberte à Saint-Jean-du-Gard
 
 * "On ira tous au paradis", Michel Polnareff, On ira tous au paradis, 1972
 * "Broucouille comme on dit dans le bouchonnois", Les Inconnus, Les chasseurs, 1991
 * "Comme un manouche sans guitare", Thomas Dutronc, Comme un manouche sans guitare, 2007
 
-## 08/05/2018 : de Saint-Jean-du-Gard à Alès
+## De Saint-Jean-du-Gard à Alès
 
 * "Je suis le maître du monde", Leonardo DiCaprio, Titanic, 1997
 * "J'fais des trous des p'tits trous encore des p'tits trous", Serge Gainsbourg, Le Poinçonneur des Lilas, 1958
