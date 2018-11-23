@@ -22,6 +22,20 @@
       <!-- https://github.com/Leaflet/Leaflet.fullscreen -->
       <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
       <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+      <!-- https://github.com/FortAwesome/Font-Awesome -->
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+      <!-- https://github.com/lvoogdt/Leaflet.awesome-markers -->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" integrity="sha384-AHhmp36MxTYxqK8q9BF7ifcAjDEpcCT+OOmZrBb8vBP6At1I/htDyRK/M8wgzuqx" crossorigin="anonymous">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js" integrity="sha384-e3K/MgD3PfLJJFhUTg4y1zJciOSfdvRZpcgb0IBjxmbvyyyZuuQTKvs3x27hZpLr" crossorigin="anonymous"></script>
+      <!-- set default marker icons -->
+      <script>
+        L.AwesomeMarkers.Icon.prototype.options.prefix = 'fa';
+        const DEFAULT_MARKER_OPTIONS = {
+          wptIcons: { '': new L.AwesomeMarkers.icon({ icon: 'circle',         markerColor: 'blue'  }) },
+          startIcon:      new L.AwesomeMarkers.icon({ icon: 'flag',           markerColor: 'red'   })  ,
+          endIcon:        new L.AwesomeMarkers.icon({ icon: 'flag-checkered', markerColor: 'green' })
+        }
+      </script>
     {% endif %}
 
   </head>

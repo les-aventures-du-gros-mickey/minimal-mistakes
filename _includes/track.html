@@ -1,28 +1,46 @@
+<!--
+
+{{ include.id }}: map unique ID (also used to avoid variable collision when multiple maps are used within one page)
+{{ include.file }}: GPX file to display
+{{ include.add_ign_layer }}: set whether IGN layer should be added or not [default: true]
+{{ include.fit_map}}: set whether to fit map or not (else it is a center-zoom) [default: true]
+{{ include.zoom }}: zoom level (used only if fit_map == false) [default: 12]
+
+-->
+
 <div id="{{ include.id }}" style="height: 400px;"></div>
 <p></p>
 <script>
-  var {{ include.id }}_layers = {
-    "OSM": L.tileLayer(
+
+  var {{ include.id }}_layers = { };
+  {{ include.id }}_layers["OSM"] = L.tileLayer(
       "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
       { attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>' }
-    ),
-    "IGN": L.tileLayer(
+  );
+  if ({% if include.add_ign_layer %}{{ include.add_ign_layer }}{% else %}true{% endif %}) {
+    {{ include.id }}_layers["IGN"] = L.tileLayer(
       "https://wxs.ign.fr/choisirgeoportail/geoportail/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=GEOGRAPHICALGRIDSYSTEMS.MAPS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fjpeg",
       { attribution: '&copy; <a href="http://www.ign.fr/">IGN</a>' }
-    )
-  };
+    );
+  }
   {{ include.id }}_map = L.map('{{ include.id }}',
     { layers: [{{ include.id }}_layers.OSM] }
   );
+
   var {{ include.id }}_track = new L.GPX(
     "/assets/tracks/{{ include.file }}",
-    { async: true }
-  ).on(
-    "loaded",
-    function(e) { {{ include.id }}_map.fitBounds(e.target.getBounds()); }
-  );
+    { async: true, marker_options: DEFAULT_MARKER_OPTIONS }
+  )
+  if ({% if include.fit_map %}{{ include.fit_map }}{% else %}true{% endif %}) {
+    initialize_map = function(e) { {{ include.id }}_map.fitBounds(e.target.getBounds()); }
+  } else {
+    initialize_map = function(e) { {{ include.id }}_map.setView(e.target.getBounds().getCenter(), {% if include.zoom %}{{ include.zoom }}{% else %}12{% endif %}); }
+  }
+  {{ include.id }}_track.on("loaded", initialize_map);
+
   {{ include.id }}_map.addLayer({{ include.id }}_track);
   L.control.scale().addTo({{ include.id }}_map);
   L.control.layers({{ include.id }}_layers).addTo({{ include.id }}_map);
   {{ include.id }}_map.addControl(new L.control.fullscreen());
+
 </script>

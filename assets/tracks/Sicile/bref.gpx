@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gpx>
+
+  <wpt lat="37.502174377441406" lon="15.087318420410156">
+    <name>Catania</name>
+  </wpt>
+
+  <wpt lat="37.06512451171875" lon="15.29022216796875">
+    <name>Siracusa</name>
+  </wpt>
+
+  <wpt lat="37.851676940917969" lon="15.285844802856445">
+    <name>Taormina</name>
+  </wpt>
+
+  <wpt lat="37.75101900100708" lon="14.994041919708252">
+    <name>Parco dell'Etna</name>
+  </wpt>
+
+  <wpt lat="38.220813274383545" lon="15.241513252258301">
+    <name>Milazzo</name>
+  </wpt>
+
+  <wpt lat="38.468177318572998" lon="14.954710006713867">
+    <name>Lipari</name>
+  </wpt>
+
+  <wpt lat="38.8037109375" lon="15.239753723144531">
+    <name>Stromboli</name>
+  </wpt>
+
+  <wpt lat="38.111572265625" lon="13.352508544921875">
+    <name>Palermo</name>
+  </wpt>
+
+  <wpt lat="38.03741455078125" lon="12.586898803710938">
+    <name>Erice</name>
+  </wpt>
+
+  <wpt lat="38.101071501150727" lon="12.78365601785481">
+    <name>Riserva naturale dello Zingaro</name>
+  </wpt>
+
+  <wpt lat="38.080158233642578" lon="13.288736343383789">
+    <name>Monreale</name>
+  </wpt>
+
+  <wpt lat="37.931585311889648" lon="13.663387298583984">
+    <name>Caccamo</name>
+  </wpt>
+
+  <wpt lat="38.03492546081543" lon="14.024477005004883">
+    <name>Cefalù</name>
+  </wpt>
+
+  <wpt lat="37.877294886857271" lon="14.027875950559974">
+    <name>Parco delle Madonie</name>
+  </wpt>
+
+  <wpt lat="37.566375732421875" lon="14.280853271484375">
+    <name>Enna</name>
+  </wpt>
+
+  <wpt lat="37.660746239125729" lon="14.59404936991632">
+    <name>Lago Pozzillo</name>
+  </wpt>
+
+  <wpt lat="37.747478485107422" lon="14.397239685058594">
+    <name>Nicosia</name>
+  </wpt>
+
+  <wpt lat="37.928646616637707" lon="14.676934238523245">
+    <name>Parco dei Nebrodi</name>
+  </wpt>
+
+  <wpt lat="38.266067504882813" lon="15.645990371704102">
+    <name>Torre Faro</name>
+  </wpt>
+
+  <wpt lat="37.612810134887695" lon="15.165853500366211">
+    <name>Acireale</name>
+  </wpt>
+
+</gpx>
