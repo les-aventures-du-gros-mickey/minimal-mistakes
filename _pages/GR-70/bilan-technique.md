@@ -3,6 +3,7 @@ title: "Bilan technique"
 permalink: /GR-70/bilan-technique/
 sidebar:
   nav: "gr_70"
+enable_tracks: true
 ---
 
 ## Randonnée
@@ -25,13 +26,13 @@ Les régions traversées :
 * Lozère : plus varié et plus montagneux
 * Cévennes : vraiment beau bien que bien sec par endroit
 
-{% include image.html file="GR-70/bilan-technique/0000816_le-chemin-de-stevenson-gr70.jpeg" description="L'itinéraire complet" %}
+{% include track.html id="itineraire_complet" file="GR-70/itineraire-complet.gpx" %}
 
 Quelques chiffres :
 * Étapes : 11
-* Distance : ~305 km
-* Dénivelé positif : ~10,100 km
-* Dénivelé négatif : ~10,450 km
+* Distance : ~290 km
+* Dénivelé positif : ~11,5 km
+* Dénivelé négatif : ~12,0 km
 * Temps de randonnée : ~94 h
 
 Je considère que le temps de pause, tout comme le temps de marche, fait partie de la randonnée.
