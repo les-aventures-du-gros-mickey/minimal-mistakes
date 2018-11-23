@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.16.3" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-
-  <metadata>
-    <link href="http://www.garmin.com">
-      <text>Garmin International</text>
-    </link>
-    <time>2018-11-11T15:18:48Z</time>
-    <bounds maxlat="-21.096111098304391" maxlon="55.496500013396144" minlat="-21.110099656507373" minlon="55.479748696088791"/>
-  </metadata>
+<gpx>
 
   <trk>
-    <name>24-OCT-18 1</name>
-    <extensions>
-      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
-      </gpxx:TrackExtension>
-    </extensions>
     <trkseg>
       <trkpt lat="-21.110094208270311" lon="55.496492804959416">
         <ele>2484.664794921875</ele>

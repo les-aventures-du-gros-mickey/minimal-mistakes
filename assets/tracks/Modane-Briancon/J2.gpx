@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.16.3" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-
-  <metadata>
-    <link href="http://www.garmin.com">
-      <text>Garmin International</text>
-    </link>
-    <time>2018-11-18T15:24:29Z</time>
-    <bounds maxlat="45.114553207531571" maxlon="6.595114348456264" minlat="45.03128444775939" minlon="6.465635066851974"/>
-  </metadata>
+<gpx>
 
   <trk>
-    <name>16-AOU-18</name>
-    <extensions>
-      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayColor>Cyan</gpxx:DisplayColor>
-      </gpxx:TrackExtension>
-    </extensions>
     <trkseg>
       <trkpt lat="45.108521841466427" lon="6.590652158483863">
         <ele>2456.3056640625</ele>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.16.3" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-
-  <metadata>
-    <link href="http://www.garmin.com">
-      <text>Garmin International</text>
-    </link>
-    <time>2018-11-13T17:07:02Z</time>
-    <bounds maxlat="-20.998699301853776" maxlon="55.722384760156274" minlat="-21.153678931295872" minlon="55.479788426309824"/>
-  </metadata>
+<gpx>
 
   <trk>
-    <name>Piton-Butor</name>
-    <extensions>
-      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
-      </gpxx:TrackExtension>
-    </extensions>
     <trkseg>
       <trkpt lat="-21.13474597223103" lon="55.626784460619092">
         <ele>1047.49365234375</ele>

@@ -14,5 +14,5 @@ Détails :
 * Météo : beau temps globalement :sunny:
 * Étapes : 4
 * Dénivelé positif : 3400 m
-* Denivelé négatif : -4400 m
+* Denivelé négatif : 4400 m
 * Distance : 74 km
