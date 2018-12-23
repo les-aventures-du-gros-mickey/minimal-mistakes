@@ -11,6 +11,8 @@ adventures:
     url: /96h-2018/J1/
   - title: "I mafiosi in Sicilia"
     url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
@@ -55,6 +57,8 @@ gr_70:
     url: /96h-2018/J1/
   - title: "I mafiosi in Sicilia"
     url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
@@ -77,6 +81,8 @@ gr_70:
         url: /96h-2018/films/
   - title: "I mafiosi in Sicilia"
     url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
@@ -123,6 +129,30 @@ sicile:
         url: /Sicile/J15/
       - title: "En bref"
         url: /Sicile/bref/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+
+mercantour_nord:
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    children:
+      - title: "De Saint-Étienne-de-Tinée au refuge de Rabuons"
+        url: /Mercantour-nord/J1/
+      - title: "Grand Cimon de Rabuons"
+        url: /Mercantour-nord/J2/
+      - title: "Du refuge de Rabuons aux lacs de Vens"
+        url: /Mercantour-nord/J3/
+      - title: "Des lacs de Vens à Saint-Étienne-de-Tinée"
+        url: /Mercantour-nord/J4/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
@@ -135,6 +165,8 @@ modane_briancon:
     url: /96h-2018/J1/
   - title: "I mafiosi in Sicilia"
     url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
   - title: "De Modane à Briançon"
     children:
       - title: "De Modane au Lac Peyron"
@@ -157,6 +189,8 @@ piton_butor:
     url: /96h-2018/J1/
   - title: "I mafiosi in Sicilia"
     url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
   - title: "De Modane à Briançon"
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
