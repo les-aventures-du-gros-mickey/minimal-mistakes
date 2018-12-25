@@ -5,6 +5,42 @@ main:
 
 # adventures links
 adventures:
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+
+santo_antao:
+  - title: "Santo Antão"
+    children:
+      - title: "Arrivée à Mindelo"
+        url: /Santo-Antao/J1/
+      - title: "De Coculi à Chã de Pedras"
+        url: /Santo-Antao/J2/
+      - title: "De Chã de Pedras à Caibros"
+        url: /Santo-Antao/J3/
+      - title: "De Caibros à Chã de Igreja"
+        url: /Santo-Antao/J4/
+      - title: "De Chã de Igreja à Ponta Do Sol"
+        url: /Santo-Antao/J5/
+      - title: "De Ribeira da Torre à Corda"
+        url: /Santo-Antao/J6/
+      - title: "Chã de Padre"
+        url: /Santo-Antao/J7/
+      - title: "Retour à Mindelo et escale à Lisboa"
+        url: /Santo-Antao/J8/
+      - title: "Lisboa"
+        url: /Santo-Antao/J9/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     url: /GR-70/preambule/
   - title: "96h non-stop 2018"
@@ -19,6 +55,8 @@ adventures:
     url: /Piton-Butor/J1/
 
 gr_70:
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     children:
       - title: "Préambule"
@@ -65,6 +103,8 @@ gr_70:
     url: /Piton-Butor/J1/
 
 96h_2018:
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     url: /GR-70/preambule/
   - title: "96h non-stop 2018"
@@ -89,6 +129,8 @@ gr_70:
     url: /Piton-Butor/J1/
 
 sicile:
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     url: /GR-70/preambule/
   - title: "96h non-stop 2018"
@@ -137,6 +179,8 @@ sicile:
     url: /Piton-Butor/J1/
 
 mercantour_nord:
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     url: /GR-70/preambule/
   - title: "96h non-stop 2018"
@@ -159,6 +203,8 @@ mercantour_nord:
     url: /Piton-Butor/J1/
 
 modane_briancon:
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     url: /GR-70/preambule/
   - title: "96h non-stop 2018"
@@ -183,6 +229,8 @@ modane_briancon:
     url: /Piton-Butor/J1/
 
 piton_butor:
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     url: /GR-70/preambule/
   - title: "96h non-stop 2018"
