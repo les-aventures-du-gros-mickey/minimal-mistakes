@@ -5,6 +5,34 @@ main:
 
 # adventures links
 adventures:
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+
+larche_barcelonnette:
+  - title: "De Larche à Barcelonnette"
+    children:
+      - title: "De Larche au Col des Fourches"
+        url: /Larche-Barcelonnette/J1/
+      - title: "Du Col des Fourches à Bayasse"
+        url: /Larche-Barcelonnette/J2/
+      - title: "De Bayasse à Barcelonnette"
+        url: /Larche-Barcelonnette/J3/
+      - title: "Itinéraire complet"
+        url: /Larche-Barcelonnette/itineraire-complet/
   - title: "Santo Antão"
     url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -21,6 +49,8 @@ adventures:
     url: /Piton-Butor/J1/
 
 santo_antao:
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
     children:
       - title: "Arrivée à Mindelo"
@@ -55,6 +85,8 @@ santo_antao:
     url: /Piton-Butor/J1/
 
 gr_70:
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
     url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -103,6 +135,8 @@ gr_70:
     url: /Piton-Butor/J1/
 
 96h_2018:
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
     url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -129,6 +163,8 @@ gr_70:
     url: /Piton-Butor/J1/
 
 sicile:
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
     url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -179,6 +215,8 @@ sicile:
     url: /Piton-Butor/J1/
 
 mercantour_nord:
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
     url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -203,6 +241,8 @@ mercantour_nord:
     url: /Piton-Butor/J1/
 
 modane_briancon:
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
     url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
@@ -229,6 +269,8 @@ modane_briancon:
     url: /Piton-Butor/J1/
 
 piton_butor:
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
     url: /Santo-Antao/J1/
   - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
