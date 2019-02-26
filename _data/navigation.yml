@@ -5,6 +5,56 @@ main:
 
 # adventures links
 adventures:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+
+japon:
+  - title: "Japoniaiseries"
+    children:
+      - title: "C'est parti !"
+        url: /Japon/J0/
+      - title: "Lost in Shibuya"
+        url: /Japon/J1/
+      - title: "Week-end à Tokyo"
+        url: /Japon/J2-J3/
+      - title: "Takayama"
+        url: /Japon/J4-J5/
+      - title: "Mont Yake"
+        url: /Japon/J6/
+      - title: "Kyoto et Osaka"
+        url: /Japon/J7-J8-J10-J11/
+      - title: "Nara"
+        url: /Japon/J9/
+      - title: "Takamatsu et Shodoshima"
+        url: /Japon/J12-J13/
+      - title: "Kotohira et Matsuyama"
+        url: /Japon/J14-J15/
+      - title: "Shimanami Kaido"
+        url: /Japon/J16-J17/
+      - title: "Hiroshima"
+        url: /Japon/J18/
+      - title: "Miyajima"
+        url: /Japon/J19/
+      - title: "Retour à Tokyo"
+        url: /Japon/J20-J21/
+      - title: "C'est fini !"
+        url: /Japon/J22/
   - title: "De Larche à Barcelonnette"
     url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
@@ -23,6 +73,8 @@ adventures:
     url: /Piton-Butor/J1/
 
 larche_barcelonnette:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
   - title: "De Larche à Barcelonnette"
     children:
       - title: "De Larche au Col des Fourches"
@@ -49,6 +101,8 @@ larche_barcelonnette:
     url: /Piton-Butor/J1/
 
 santo_antao:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
   - title: "De Larche à Barcelonnette"
     url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
@@ -85,6 +139,8 @@ santo_antao:
     url: /Piton-Butor/J1/
 
 gr_70:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
   - title: "De Larche à Barcelonnette"
     url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
@@ -135,6 +191,8 @@ gr_70:
     url: /Piton-Butor/J1/
 
 96h_2018:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
   - title: "De Larche à Barcelonnette"
     url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
@@ -163,6 +221,8 @@ gr_70:
     url: /Piton-Butor/J1/
 
 sicile:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
   - title: "De Larche à Barcelonnette"
     url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
@@ -215,6 +275,8 @@ sicile:
     url: /Piton-Butor/J1/
 
 mercantour_nord:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
   - title: "De Larche à Barcelonnette"
     url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
@@ -241,6 +303,8 @@ mercantour_nord:
     url: /Piton-Butor/J1/
 
 modane_briancon:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
   - title: "De Larche à Barcelonnette"
     url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"
@@ -269,6 +333,8 @@ modane_briancon:
     url: /Piton-Butor/J1/
 
 piton_butor:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
   - title: "De Larche à Barcelonnette"
     url: /Larche-Barcelonnette/J1/
   - title: "Santo Antão"

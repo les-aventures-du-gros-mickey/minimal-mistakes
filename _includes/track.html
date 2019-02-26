@@ -14,7 +14,7 @@
 
   var {{ include.id }}_layers = { };
   {{ include.id }}_layers["OSM"] = L.tileLayer(
-      "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png",
       { attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>' }
   );
   if ({% if include.add_ign_layer %}{{ include.add_ign_layer }}{% else %}true{% endif %}) {
