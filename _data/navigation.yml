@@ -25,6 +25,8 @@ adventures:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 japon:
   - title: "Japoniaiseries"
@@ -75,6 +77,8 @@ japon:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 aiguilles_rouges:
   - title: "Japoniaiseries"
@@ -107,8 +111,8 @@ aiguilles_rouges:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
-
-
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 larche_barcelonnette:
   - title: "Japoniaiseries"
@@ -139,6 +143,8 @@ larche_barcelonnette:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 santo_antao:
   - title: "Japoniaiseries"
@@ -179,6 +185,8 @@ santo_antao:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 gr_70:
   - title: "Japoniaiseries"
@@ -233,6 +241,8 @@ gr_70:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 96h_2018:
   - title: "Japoniaiseries"
@@ -265,6 +275,8 @@ gr_70:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 sicile:
   - title: "Japoniaiseries"
@@ -321,6 +333,8 @@ sicile:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 mercantour_nord:
   - title: "Japoniaiseries"
@@ -351,6 +365,8 @@ mercantour_nord:
     url: /Modane-Briancon/J1/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 modane_briancon:
   - title: "Japoniaiseries"
@@ -383,6 +399,8 @@ modane_briancon:
         url: /Modane-Briancon/itineraire-complet/
   - title: "Du Piton des Neiges au Butor"
     url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
 
 piton_butor:
   - title: "Japoniaiseries"
@@ -417,3 +435,43 @@ piton_butor:
         url: /Piton-Butor/itineraire-complet/
       - title: "Bonus"
         url: /Piton-Butor/bonus/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
+
+laragne_sisteron:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
+  - title: "Tour des Aiguilles Rouges"
+    url: /Aiguilles-Rouges/J1/
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    children:
+      - title: "Préambule"
+        url: /Laragne-Sisteron/preambule/
+      - title: "De Laragne-Montéglin à Champias"
+        url: /Laragne-Sisteron/J1/
+      - title: "De Champias à Izon-la-Bruisse"
+        url: /Laragne-Sisteron/J2/
+      - title: "D'Izon-la-Bruisse à Saint-Vincent-sur-Jabron"
+        url: /Laragne-Sisteron/J3/
+      - title: "De Saint-Vincent-sur-Jabron à Bevons"
+        url: /Laragne-Sisteron/J4/
+      - title: "De Bevons à Sisteron"
+        url: /Laragne-Sisteron/J5/
+      - title: "Bilan"
+        url: /Laragne-Sisteron/bilan/
