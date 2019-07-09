@@ -27,6 +27,8 @@ adventures:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 japon:
   - title: "Japoniaiseries"
@@ -79,6 +81,8 @@ japon:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 aiguilles_rouges:
   - title: "Japoniaiseries"
@@ -113,6 +117,8 @@ aiguilles_rouges:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 larche_barcelonnette:
   - title: "Japoniaiseries"
@@ -145,6 +151,8 @@ larche_barcelonnette:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 santo_antao:
   - title: "Japoniaiseries"
@@ -187,6 +195,8 @@ santo_antao:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 gr_70:
   - title: "Japoniaiseries"
@@ -243,6 +253,8 @@ gr_70:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 96h_2018:
   - title: "Japoniaiseries"
@@ -277,6 +289,8 @@ gr_70:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 sicile:
   - title: "Japoniaiseries"
@@ -335,6 +349,8 @@ sicile:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 mercantour_nord:
   - title: "Japoniaiseries"
@@ -367,6 +383,8 @@ mercantour_nord:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 modane_briancon:
   - title: "Japoniaiseries"
@@ -401,6 +419,8 @@ modane_briancon:
     url: /Piton-Butor/J1/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 piton_butor:
   - title: "Japoniaiseries"
@@ -437,6 +457,8 @@ piton_butor:
         url: /Piton-Butor/bonus/
   - title: "De Laragne à Sisteron"
     url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
 
 laragne_sisteron:
   - title: "Japoniaiseries"
@@ -475,3 +497,53 @@ laragne_sisteron:
         url: /Laragne-Sisteron/J5/
       - title: "Bilan"
         url: /Laragne-Sisteron/bilan/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
+
+bauges:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
+  - title: "Tour des Aiguilles Rouges"
+    url: /Aiguilles-Rouges/J1/
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    children:
+      - title: "Préambule"
+        url: /Bauges/preambule/
+      - title: "De Montmélian au Col de Servenne"
+        url: /Bauges/J1/
+      - title: "Du Col de Servenne au Carlet"
+        url: /Bauges/J2/
+      - title: "Du Carlet à Notre-Dame de Bellevaux"
+        url: /Bauges/J3/
+      - title: "De Notre-Dame de Bellevaux à la Sambuy"
+        url: /Bauges/J4/
+      - title: "De la Sambuy à l'Eau Froide"
+        url: /Bauges/J5/
+      - title: "De l'Eau Froide au Reposoir"
+        url: /Bauges/J6/
+      - title: "Du Reposoir au Perchet"
+        url: /Bauges/J7/
+      - title: "Du Perchet au Belvédère"
+        url: /Bauges/J8/
+      - title: "Du Belvédère à Annecy"
+        url: /Bauges/J9/
+      - title: "Bilan"
+        url: /Bauges/bilan/
