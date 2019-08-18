@@ -29,6 +29,8 @@ adventures:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 japon:
   - title: "Japoniaiseries"
@@ -83,6 +85,8 @@ japon:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 aiguilles_rouges:
   - title: "Japoniaiseries"
@@ -119,6 +123,8 @@ aiguilles_rouges:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 larche_barcelonnette:
   - title: "Japoniaiseries"
@@ -153,6 +159,8 @@ larche_barcelonnette:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 santo_antao:
   - title: "Japoniaiseries"
@@ -197,6 +205,8 @@ santo_antao:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 gr_70:
   - title: "Japoniaiseries"
@@ -255,6 +265,8 @@ gr_70:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 96h_2018:
   - title: "Japoniaiseries"
@@ -291,6 +303,8 @@ gr_70:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 sicile:
   - title: "Japoniaiseries"
@@ -351,6 +365,8 @@ sicile:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 mercantour_nord:
   - title: "Japoniaiseries"
@@ -385,6 +401,8 @@ mercantour_nord:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 modane_briancon:
   - title: "Japoniaiseries"
@@ -421,6 +439,8 @@ modane_briancon:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 piton_butor:
   - title: "Japoniaiseries"
@@ -459,6 +479,8 @@ piton_butor:
     url: /Laragne-Sisteron/preambule/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 laragne_sisteron:
   - title: "Japoniaiseries"
@@ -499,6 +521,8 @@ laragne_sisteron:
         url: /Laragne-Sisteron/bilan/
   - title: "Traversée des Bauges"
     url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
 
 bauges:
   - title: "Japoniaiseries"
@@ -547,3 +571,45 @@ bauges:
         url: /Bauges/J9/
       - title: "Bilan"
         url: /Bauges/bilan/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
+
+gap_cordeac:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
+  - title: "Tour des Aiguilles Rouges"
+    url: /Aiguilles-Rouges/J1/
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    children:
+      - title: "De Gap à Moissières"
+        url: /Gap-Cordeac/J1/
+      - title: "De Moissières à Puymaure"
+        url: /Gap-Cordeac/J2/
+      - title: "De Puymaure au Play"
+        url: /Gap-Cordeac/J3/
+      - title: "Du Play au col des Faïsses"
+        url: /Gap-Cordeac/J4/
+      - title: "Du col des Faïsses à Cordéac"
+        url: /Gap-Cordeac/J5/
+      - title: "Itinéraire complet"
+        url: /Gap-Cordeac/itineraire-complet/
