@@ -10,7 +10,7 @@ enable_tracks: true
 
 Détails :
 
-* Météo : Très belles journées ensoleillées :sunny:
+* Météo : très belles journées ensoleillées :sunny:
 * Étapes : 4
 * Dénivelé positif : 4850 m
 * Denivelé négatif : 4900 m

@@ -31,6 +31,8 @@ adventures:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 japon:
   - title: "Japoniaiseries"
@@ -87,6 +89,8 @@ japon:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 aiguilles_rouges:
   - title: "Japoniaiseries"
@@ -125,6 +129,8 @@ aiguilles_rouges:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 larche_barcelonnette:
   - title: "Japoniaiseries"
@@ -161,6 +167,8 @@ larche_barcelonnette:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 santo_antao:
   - title: "Japoniaiseries"
@@ -207,6 +215,8 @@ santo_antao:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 gr_70:
   - title: "Japoniaiseries"
@@ -267,6 +277,8 @@ gr_70:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 96h_2018:
   - title: "Japoniaiseries"
@@ -305,6 +317,8 @@ gr_70:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 sicile:
   - title: "Japoniaiseries"
@@ -367,6 +381,8 @@ sicile:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 mercantour_nord:
   - title: "Japoniaiseries"
@@ -403,6 +419,8 @@ mercantour_nord:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 modane_briancon:
   - title: "Japoniaiseries"
@@ -441,6 +459,8 @@ modane_briancon:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 piton_butor:
   - title: "Japoniaiseries"
@@ -481,6 +501,8 @@ piton_butor:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 laragne_sisteron:
   - title: "Japoniaiseries"
@@ -523,6 +545,8 @@ laragne_sisteron:
     url: /Bauges/preambule/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 bauges:
   - title: "Japoniaiseries"
@@ -573,6 +597,8 @@ bauges:
         url: /Bauges/bilan/
   - title: "De Gap à Cordéac"
     url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
 
 gap_cordeac:
   - title: "Japoniaiseries"
@@ -613,3 +639,53 @@ gap_cordeac:
         url: /Gap-Cordeac/J5/
       - title: "Itinéraire complet"
         url: /Gap-Cordeac/itineraire-complet/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
+
+gran_paradiso:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
+  - title: "Tour des Aiguilles Rouges"
+    url: /Aiguilles-Rouges/J1/
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    children:
+      - title: "Présentation des bestiaux"
+        url: /Gran-Paradiso/bestiaux/
+      - title: "De Cogne à la Costa Verde"
+        url: /Gran-Paradiso/J1/
+      - title: "De la Costa Verde au Torrent Costa Savolera"
+        url: /Gran-Paradiso/J2/
+      - title: "Du Torrent Costa Savolera aux Laghi del Nivolet"
+        url: /Gran-Paradiso/J3/
+      - title: "Des Laghi del Nivolet au Lago di Goletta"
+        url: /Gran-Paradiso/J4/
+      - title: "Du Lago di Goletta au Lago San Martino"
+        url: /Gran-Paradiso/J5/
+      - title: "Du Lago San Martino à La Motte"
+        url: /Gran-Paradiso/J6/
+      - title: "De La Motte à Bourg-Saint-Maurice"
+        url: /Gran-Paradiso/J7/
+      - title: "En bref"
+        url: /Gran-Paradiso/bref/
