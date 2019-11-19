@@ -33,6 +33,8 @@ adventures:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 japon:
   - title: "Japoniaiseries"
@@ -91,6 +93,8 @@ japon:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 aiguilles_rouges:
   - title: "Japoniaiseries"
@@ -131,6 +135,8 @@ aiguilles_rouges:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 larche_barcelonnette:
   - title: "Japoniaiseries"
@@ -169,6 +175,8 @@ larche_barcelonnette:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 santo_antao:
   - title: "Japoniaiseries"
@@ -217,6 +225,8 @@ santo_antao:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 gr_70:
   - title: "Japoniaiseries"
@@ -279,6 +289,8 @@ gr_70:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 96h_2018:
   - title: "Japoniaiseries"
@@ -319,6 +331,8 @@ gr_70:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 sicile:
   - title: "Japoniaiseries"
@@ -383,6 +397,8 @@ sicile:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 mercantour_nord:
   - title: "Japoniaiseries"
@@ -421,6 +437,8 @@ mercantour_nord:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 modane_briancon:
   - title: "Japoniaiseries"
@@ -461,6 +479,8 @@ modane_briancon:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 piton_butor:
   - title: "Japoniaiseries"
@@ -503,6 +523,8 @@ piton_butor:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 laragne_sisteron:
   - title: "Japoniaiseries"
@@ -547,6 +569,8 @@ laragne_sisteron:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 bauges:
   - title: "Japoniaiseries"
@@ -599,6 +623,8 @@ bauges:
     url: /Gap-Cordeac/J1/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 gap_cordeac:
   - title: "Japoniaiseries"
@@ -641,6 +667,8 @@ gap_cordeac:
         url: /Gap-Cordeac/itineraire-complet/
   - title: "Gran Paradiso"
     url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
 
 gran_paradiso:
   - title: "Japoniaiseries"
@@ -689,3 +717,51 @@ gran_paradiso:
         url: /Gran-Paradiso/J7/
       - title: "En bref"
         url: /Gran-Paradiso/bref/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
+
+mafate:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
+  - title: "Tour des Aiguilles Rouges"
+    url: /Aiguilles-Rouges/J1/
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    children:
+      - title: "Du Maïdo à Aurère"
+        url: /Mafate/J1/
+      - title: "De Aurère à la Roche Ancrée"
+        url: /Mafate/J2/
+      - title: "De la Roche Ancrée à Marla"
+        url: /Mafate/J3/
+      - title: "De Marla à Cilaos"
+        url: /Mafate/J4/
+      - title: "Du Col des Bœufs à Roche Plate"
+        url: /Mafate/J20/
+      - title: "De Roche Plate au Col des Bœufs"
+        url: /Mafate/J21/
+      - title: "En bref"
+        url: /Mafate/bref/
