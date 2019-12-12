@@ -8,7 +8,7 @@ enable_tracks: true
 
 ## Accomplissements
 
-Nous ne sommes pas allé au Piton des Neiges :
+Nous ne sommes pas allés au Piton des Neiges :
 {% include image.html file="Mafate/bref/P1080953.JPG" %}
 
 Nous n'avons pas capturé de pokémon :

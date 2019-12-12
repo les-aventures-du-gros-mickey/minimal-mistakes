@@ -7,6 +7,8 @@ main:
 adventures:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -67,6 +69,67 @@ japon:
         url: /Japon/J20-J21/
       - title: "C'est fini !"
         url: /Japon/J22/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
+  - title: "Tour des Aiguilles Rouges"
+    url: /Aiguilles-Rouges/J1/
+  - title: "De Larche à Barcelonnette"
+    url: /Larche-Barcelonnette/J1/
+  - title: "Santo Antão"
+    url: /Santo-Antao/J1/
+  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
+    url: /GR-70/preambule/
+  - title: "96h non-stop 2018"
+    url: /96h-2018/J1/
+  - title: "I mafiosi in Sicilia"
+    url: /Sicile/mafiosi/
+  - title: "Mercantour nord"
+    url: /Mercantour-nord/J1/
+  - title: "De Modane à Briançon"
+    url: /Modane-Briancon/J1/
+  - title: "Du Piton des Neiges au Butor"
+    url: /Piton-Butor/J1/
+  - title: "De Laragne à Sisteron"
+    url: /Laragne-Sisteron/preambule/
+  - title: "Traversée des Bauges"
+    url: /Bauges/preambule/
+  - title: "De Gap à Cordéac"
+    url: /Gap-Cordeac/J1/
+  - title: "Gran Paradiso"
+    url: /Gran-Paradiso/bestiaux/
+  - title: "Expéditions à Mafate"
+    url: /Mafate/J1/
+
+
+bolivie:
+  - title: "Japoniaiseries"
+    url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    children:
+      - title: "Santa Cruz et Samaipata"
+        url: /Bolivie/J1-J2-J3-J4-J5/
+      - title: "Sucre"
+        url: /Bolivie/J6-J7-J8/
+      - title: "Maragua"
+        url: /Bolivie/J9-J10-J11/
+      - title: "Potosí"
+        url: /Bolivie/J12-J13-J14/
+      - title: "Tupiza"
+        url: /Bolivie/J15-J16/
+      - title: "Circuit dans le Sud Lípez et Uyuni"
+        url: /Bolivie/J17-J18-J19-J20-J21/
+      - title: "Cochabamba et Torotoro"
+        url: /Bolivie/J22-J23-J24-J25-J26/
+      - title: "Isla del Sol et Copacabana"
+        url: /Bolivie/J27-J28-J29-J30/
+      - title: "Rurrenabaque et Parque Nacional Madidi"
+        url: /Bolivie/J32-J33-J34-J35-J36/
+      - title: "Trek de Takesi"
+        url: /Bolivie/J38-J39/
+      - title: "La Paz et Tiwanaku"
+        url: /Bolivie/J31-J37-J40-J41-J42/
+      - title: "En bref"
+        url: /Bolivie/bref/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -99,6 +162,8 @@ japon:
 aiguilles_rouges:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     children:
       - title: "Du Merlet au Pont d'Arlevé"
@@ -141,6 +206,8 @@ aiguilles_rouges:
 larche_barcelonnette:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -181,6 +248,8 @@ larche_barcelonnette:
 santo_antao:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -231,6 +300,8 @@ santo_antao:
 gr_70:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -295,6 +366,8 @@ gr_70:
 96h_2018:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -337,6 +410,8 @@ gr_70:
 sicile:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -403,6 +478,8 @@ sicile:
 mercantour_nord:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -443,6 +520,8 @@ mercantour_nord:
 modane_briancon:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -485,6 +564,8 @@ modane_briancon:
 piton_butor:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -529,6 +610,8 @@ piton_butor:
 laragne_sisteron:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -575,6 +658,8 @@ laragne_sisteron:
 bauges:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -629,6 +714,8 @@ bauges:
 gap_cordeac:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -673,6 +760,8 @@ gap_cordeac:
 gran_paradiso:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
@@ -723,6 +812,8 @@ gran_paradiso:
 mafate:
   - title: "Japoniaiseries"
     url: /Japon/J0/
+  - title: "Lisa, Micka, Bolivia"
+    url: /Bolivie/J1-J2-J3-J4-J5/
   - title: "Tour des Aiguilles Rouges"
     url: /Aiguilles-Rouges/J1/
   - title: "De Larche à Barcelonnette"
