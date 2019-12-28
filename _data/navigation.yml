@@ -1,427 +1,182 @@
-# main links
 main:
-  - title: "Aventures"
-    url: /GR-70/preambule/
+  - title: "Treks"
+    url: /treks/
+  - title: "Voyages"
+    url: /voyages/
+  - title: "Divers"
+    url: /divers/
+  - title: "Citations"
+    url: /citations/
+  - title: "À propos"
+    url: /a-propos/
 
-# adventures links
-adventures:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
+citations:
+- title: "Citations"
+  children:
+    - title: "Préambule"
+      url: /citations#préambule
+    - title: "Société"
+      url: /citations#société
+    - title: "Effondrement"
+      url: /citations#effondrement
+    - title: "Éphémérité"
+      url: /citations#éphémérité
+    - title: "Évasion"
+      url: /citations#évasion
+    - title: "Nature"
+      url: /citations#nature
+    - title: "Liberté"
+      url: /citations#liberté
+    - title: "Âme d'enfant"
+      url: /citations#âme-denfant
+    - title: "Rêve"
+      url: /citations#rêve
+    - title: "Grandir"
+      url: /citations#grandir
+
+mafate:
   - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
-
-japon:
-  - title: "Japoniaiseries"
     children:
-      - title: "C'est parti !"
-        url: /Japon/J0/
-      - title: "Lost in Shibuya"
-        url: /Japon/J1/
-      - title: "Week-end à Tokyo"
-        url: /Japon/J2-J3/
-      - title: "Takayama"
-        url: /Japon/J4-J5/
-      - title: "Mont Yake"
-        url: /Japon/J6/
-      - title: "Kyoto et Osaka"
-        url: /Japon/J7-J8-J10-J11/
-      - title: "Nara"
-        url: /Japon/J9/
-      - title: "Takamatsu et Shodoshima"
-        url: /Japon/J12-J13/
-      - title: "Kotohira et Matsuyama"
-        url: /Japon/J14-J15/
-      - title: "Shimanami Kaido"
-        url: /Japon/J16-J17/
-      - title: "Hiroshima"
-        url: /Japon/J18/
-      - title: "Miyajima"
-        url: /Japon/J19/
-      - title: "Retour à Tokyo"
-        url: /Japon/J20-J21/
-      - title: "C'est fini !"
-        url: /Japon/J22/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
-
-
-bolivie:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    children:
-      - title: "Santa Cruz et Samaipata"
-        url: /Bolivie/J1-J2-J3-J4-J5/
-      - title: "Sucre"
-        url: /Bolivie/J6-J7-J8/
-      - title: "Maragua"
-        url: /Bolivie/J9-J10-J11/
-      - title: "Potosí"
-        url: /Bolivie/J12-J13-J14/
-      - title: "Tupiza"
-        url: /Bolivie/J15-J16/
-      - title: "Circuit dans le Sud Lípez et Uyuni"
-        url: /Bolivie/J17-J18-J19-J20-J21/
-      - title: "Cochabamba et Torotoro"
-        url: /Bolivie/J22-J23-J24-J25-J26/
-      - title: "Isla del Sol et Copacabana"
-        url: /Bolivie/J27-J28-J29-J30/
-      - title: "Rurrenabaque et Parque Nacional Madidi"
-        url: /Bolivie/J32-J33-J34-J35-J36/
-      - title: "Trek de Takesi"
-        url: /Bolivie/J38-J39/
-      - title: "La Paz et Tiwanaku"
-        url: /Bolivie/J31-J37-J40-J41-J42/
+      - title: "Du Maïdo à Aurère"
+        url: /Mafate/J1/
+      - title: "De Aurère à la Roche Ancrée"
+        url: /Mafate/J2/
+      - title: "De la Roche Ancrée à Marla"
+        url: /Mafate/J3/
+      - title: "De Marla à Cilaos"
+        url: /Mafate/J4/
+      - title: "Du Col des Bœufs à Roche Plate"
+        url: /Mafate/J20/
+      - title: "De Roche Plate au Col des Bœufs"
+        url: /Mafate/J21/
       - title: "En bref"
-        url: /Bolivie/bref/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
+        url: /Mafate/bref/
 
-aiguilles_rouges:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
+gran_paradiso:
+  - title: "Gran Paradiso"
     children:
-      - title: "Du Merlet au Pont d'Arlevé"
-        url: /Aiguilles-Rouges/J1/
-      - title: "Du Pont d'Arlevé aux Bettes"
-        url: /Aiguilles-Rouges/J2/
-      - title: "Des Bettes au Lac de la Remuaz"
-        url: /Aiguilles-Rouges/J3/
-      - title: "Du Lac de la Remuaz au Merlet"
-        url: /Aiguilles-Rouges/J4/
-      - title: "Itinéraire complet"
-        url: /Aiguilles-Rouges/itineraire-complet/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
+      - title: "Présentation des bestiaux"
+        url: /Gran-Paradiso/bestiaux/
+      - title: "De Cogne à la Costa Verde"
+        url: /Gran-Paradiso/J1/
+      - title: "De la Costa Verde au Torrent Costa Savolera"
+        url: /Gran-Paradiso/J2/
+      - title: "Du Torrent Costa Savolera aux Laghi del Nivolet"
+        url: /Gran-Paradiso/J3/
+      - title: "Des Laghi del Nivolet au Lago di Goletta"
+        url: /Gran-Paradiso/J4/
+      - title: "Du Lago di Goletta au Lago San Martino"
+        url: /Gran-Paradiso/J5/
+      - title: "Du Lago San Martino à La Motte"
+        url: /Gran-Paradiso/J6/
+      - title: "De La Motte à Bourg-Saint-Maurice"
+        url: /Gran-Paradiso/J7/
+      - title: "En bref"
+        url: /Gran-Paradiso/bref/
 
-larche_barcelonnette:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
+gap_cordeac:
+  - title: "De Gap à Cordéac"
     children:
-      - title: "De Larche au Col des Fourches"
-        url: /Larche-Barcelonnette/J1/
-      - title: "Du Col des Fourches à Bayasse"
-        url: /Larche-Barcelonnette/J2/
-      - title: "De Bayasse à Barcelonnette"
-        url: /Larche-Barcelonnette/J3/
-      - title: "Itinéraire complet"
-        url: /Larche-Barcelonnette/itineraire-complet/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
+      - title: "De Gap à Moissières"
+        url: /Gap-Cordeac/J1/
+      - title: "De Moissières à Puymaure"
+        url: /Gap-Cordeac/J2/
+      - title: "De Puymaure au Play"
+        url: /Gap-Cordeac/J3/
+      - title: "Du Play au col des Faïsses"
+        url: /Gap-Cordeac/J4/
+      - title: "Du col des Faïsses à Cordéac"
+        url: /Gap-Cordeac/J5/
+      - title: "En bref"
+        url: /Gap-Cordeac/bref/
 
-santo_antao:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    children:
-      - title: "Arrivée à Mindelo"
-        url: /Santo-Antao/J1/
-      - title: "De Coculi à Chã de Pedras"
-        url: /Santo-Antao/J2/
-      - title: "De Chã de Pedras à Caibros"
-        url: /Santo-Antao/J3/
-      - title: "De Caibros à Chã de Igreja"
-        url: /Santo-Antao/J4/
-      - title: "De Chã de Igreja à Ponta Do Sol"
-        url: /Santo-Antao/J5/
-      - title: "De Ribeira da Torre à Corda"
-        url: /Santo-Antao/J6/
-      - title: "Chã de Padre"
-        url: /Santo-Antao/J7/
-      - title: "Retour à Mindelo et escale à Lisboa"
-        url: /Santo-Antao/J8/
-      - title: "Lisboa"
-        url: /Santo-Antao/J9/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
+bauges:
   - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
-
-gr_70:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
     children:
       - title: "Préambule"
-        url: /GR-70/preambule/
-      - title: "Du Puy-en-Velay au Cros"
-        url: /GR-70/J1/
-      - title: "Du Cros à Landos"
-        url: /GR-70/J2/
-      - title: "De Landos aux Brugeyrolles"
-        url: /GR-70/J3/
-      - title: "Des Brugeyrolles à Luc"
-        url: /GR-70/J4/
-      - title: "De Luc à Chasseradès"
-        url: /GR-70/J5/
-      - title: "De Chasseradès au Bleymard"
-        url: /GR-70/J6/
-      - title: "Du Bleymard au Pont-de-Montvert"
-        url: /GR-70/J7/
-      - title: "Du Pont-de-Montvert à Florac"
-        url: /GR-70/J8/
-      - title: "De Florac à Saint-Germain-de-Calberte"
-        url: /GR-70/J9/
-      - title: "De Saint-Germain-de-Calberte à Saint-Jean-du-Gard"
-        url: /GR-70/J10/
-      - title: "De Saint-Jean-du-Gard à Alès"
-        url: /GR-70/J11/
-      - title: "Bilan moral"
-        url: /GR-70/bilan-moral/
-      - title: "Bilan technique"
-        url: /GR-70/bilan-technique/
-      - title: "Mot final"
-        url: /GR-70/mot-final/
-      - title: "Références"
-        url: /GR-70/references/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
+        url: /Bauges/preambule/
+      - title: "De Montmélian au Col de Servenne"
+        url: /Bauges/J1/
+      - title: "Du Col de Servenne au Carlet"
+        url: /Bauges/J2/
+      - title: "Du Carlet à Notre-Dame de Bellevaux"
+        url: /Bauges/J3/
+      - title: "De Notre-Dame de Bellevaux à la Sambuy"
+        url: /Bauges/J4/
+      - title: "De la Sambuy à l'Eau Froide"
+        url: /Bauges/J5/
+      - title: "De l'Eau Froide au Reposoir"
+        url: /Bauges/J6/
+      - title: "Du Reposoir au Perchet"
+        url: /Bauges/J7/
+      - title: "Du Perchet au Belvédère"
+        url: /Bauges/J8/
+      - title: "Du Belvédère à Annecy"
+        url: /Bauges/J9/
+      - title: "En bref"
+        url: /Bauges/bref/
 
-96h_2018:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    children:
-      - title: "Départ, VTT, olympiades et dégustation"
-        url: /96h-2018/J1/
-      - title: "Canoë et jeu de piste"
-        url: /96h-2018/J2/
-      - title: "Randonnée, tyrolienne, grue et tétanie"
-        url: /96h-2018/J3/
-      - title: "Relais, radeau et course finale"
-        url: /96h-2018/J4/
-      - title: "Films"
-        url: /96h-2018/films/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
+laragne_sisteron:
   - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
+    children:
+      - title: "Préambule"
+        url: /Laragne-Sisteron/preambule/
+      - title: "De Laragne-Montéglin à Champias"
+        url: /Laragne-Sisteron/J1/
+      - title: "De Champias à Izon-la-Bruisse"
+        url: /Laragne-Sisteron/J2/
+      - title: "D'Izon-la-Bruisse à Saint-Vincent-sur-Jabron"
+        url: /Laragne-Sisteron/J3/
+      - title: "De Saint-Vincent-sur-Jabron à Bevons"
+        url: /Laragne-Sisteron/J4/
+      - title: "De Bevons à Sisteron"
+        url: /Laragne-Sisteron/J5/
+      - title: "En bref"
+        url: /Laragne-Sisteron/bref/
+
+piton_butor:
+  - title: "Du Piton des Neiges au Butor"
+    children:
+      - title: "De la Plaîne des Palmistes au refuge de la Caverne du Four"
+        url: /Piton-Butor/J1/
+      - title: "Ascension du Piton des Neiges et descente jusqu'au gîte de Bélouve"
+        url: /Piton-Butor/J2/
+      - title: "Du gîte de Bélouve à l'Eden"
+        url: /Piton-Butor/J3/
+      - title: "De l'Eden au Butor"
+        url: /Piton-Butor/J4/
+      - title: "En bref"
+        url: /Piton-Butor/bref/
+      - title: "Bonus"
+        url: /Piton-Butor/bonus/
+
+modane_briancon:
+  - title: "De Modane à Briançon"
+    children:
+      - title: "De Modane au Lac Peyron"
+        url: /Modane-Briancon/J1/
+      - title: "Du Lac Peyron au Clot des Vaches"
+        url: /Modane-Briancon/J2/
+      - title: "Du Clot des Vaches à Chénou"
+        url: /Modane-Briancon/J3/
+      - title: "De Chénou à Briançon"
+        url: /Modane-Briancon/J4/
+      - title: "En bref"
+        url: /Modane-Briancon/bref/
+
+mercantour_nord:
+  - title: "Mercantour nord"
+    children:
+      - title: "De Saint-Étienne-de-Tinée au refuge de Rabuons"
+        url: /Mercantour-nord/J1/
+      - title: "Grand Cimon de Rabuons"
+        url: /Mercantour-nord/J2/
+      - title: "Du refuge de Rabuons aux lacs de Vens"
+        url: /Mercantour-nord/J3/
+      - title: "Des lacs de Vens à Saint-Étienne-de-Tinée"
+        url: /Mercantour-nord/J4/
 
 sicile:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
   - title: "I mafiosi in Sicilia"
     children:
       - title: "Présentation des mafiosi"
@@ -458,401 +213,157 @@ sicile:
         url: /Sicile/J15/
       - title: "En bref"
         url: /Sicile/bref/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
 
-mercantour_nord:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
+96h:
+  - title: "96h non-stop"
     children:
-      - title: "De Saint-Étienne-de-Tinée au refuge de Rabuons"
-        url: /Mercantour-nord/J1/
-      - title: "Grand Cimon de Rabuons"
-        url: /Mercantour-nord/J2/
-      - title: "Du refuge de Rabuons aux lacs de Vens"
-        url: /Mercantour-nord/J3/
-      - title: "Des lacs de Vens à Saint-Étienne-de-Tinée"
-        url: /Mercantour-nord/J4/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
+      - title: "Départ, VTT, olympiades et dégustation"
+        url: /96h/J1/
+      - title: "Canoë et jeu de piste"
+        url: /96h/J2/
+      - title: "Randonnée, tyrolienne, grue et tétanie"
+        url: /96h/J3/
+      - title: "Relais, radeau et course finale"
+        url: /96h/J4/
+      - title: "Films"
+        url: /96h/films/
 
-modane_briancon:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    children:
-      - title: "De Modane au Lac Peyron"
-        url: /Modane-Briancon/J1/
-      - title: "Du Lac Peyron au Clot des Vaches"
-        url: /Modane-Briancon/J2/
-      - title: "Du Clot des Vaches à Chénou"
-        url: /Modane-Briancon/J3/
-      - title: "De Chénou à Briançon"
-        url: /Modane-Briancon/J4/
-      - title: "Itinéraire complet"
-        url: /Modane-Briancon/itineraire-complet/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
-
-piton_butor:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    children:
-      - title: "De la Plaîne des Palmistes au refuge de la Caverne du Four"
-        url: /Piton-Butor/J1/
-      - title: "Ascension du Piton des Neiges et descente jusqu'au gîte de Bélouve"
-        url: /Piton-Butor/J2/
-      - title: "Du gîte de Bélouve à l'Eden"
-        url: /Piton-Butor/J3/
-      - title: "De l'Eden au Butor"
-        url: /Piton-Butor/J4/
-      - title: "Itinéraire complet"
-        url: /Piton-Butor/itineraire-complet/
-      - title: "Bonus"
-        url: /Piton-Butor/bonus/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
-
-laragne_sisteron:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
+chemin_stevenson:
+  - title: "Chemin Stevenson"
     children:
       - title: "Préambule"
-        url: /Laragne-Sisteron/preambule/
-      - title: "De Laragne-Montéglin à Champias"
-        url: /Laragne-Sisteron/J1/
-      - title: "De Champias à Izon-la-Bruisse"
-        url: /Laragne-Sisteron/J2/
-      - title: "D'Izon-la-Bruisse à Saint-Vincent-sur-Jabron"
-        url: /Laragne-Sisteron/J3/
-      - title: "De Saint-Vincent-sur-Jabron à Bevons"
-        url: /Laragne-Sisteron/J4/
-      - title: "De Bevons à Sisteron"
-        url: /Laragne-Sisteron/J5/
-      - title: "Bilan"
-        url: /Laragne-Sisteron/bilan/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
-
-bauges:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    children:
-      - title: "Préambule"
-        url: /Bauges/preambule/
-      - title: "De Montmélian au Col de Servenne"
-        url: /Bauges/J1/
-      - title: "Du Col de Servenne au Carlet"
-        url: /Bauges/J2/
-      - title: "Du Carlet à Notre-Dame de Bellevaux"
-        url: /Bauges/J3/
-      - title: "De Notre-Dame de Bellevaux à la Sambuy"
-        url: /Bauges/J4/
-      - title: "De la Sambuy à l'Eau Froide"
-        url: /Bauges/J5/
-      - title: "De l'Eau Froide au Reposoir"
-        url: /Bauges/J6/
-      - title: "Du Reposoir au Perchet"
-        url: /Bauges/J7/
-      - title: "Du Perchet au Belvédère"
-        url: /Bauges/J8/
-      - title: "Du Belvédère à Annecy"
-        url: /Bauges/J9/
-      - title: "Bilan"
-        url: /Bauges/bilan/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
-
-gap_cordeac:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    children:
-      - title: "De Gap à Moissières"
-        url: /Gap-Cordeac/J1/
-      - title: "De Moissières à Puymaure"
-        url: /Gap-Cordeac/J2/
-      - title: "De Puymaure au Play"
-        url: /Gap-Cordeac/J3/
-      - title: "Du Play au col des Faïsses"
-        url: /Gap-Cordeac/J4/
-      - title: "Du col des Faïsses à Cordéac"
-        url: /Gap-Cordeac/J5/
-      - title: "Itinéraire complet"
-        url: /Gap-Cordeac/itineraire-complet/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
-
-gran_paradiso:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
-  - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    children:
-      - title: "Présentation des bestiaux"
-        url: /Gran-Paradiso/bestiaux/
-      - title: "De Cogne à la Costa Verde"
-        url: /Gran-Paradiso/J1/
-      - title: "De la Costa Verde au Torrent Costa Savolera"
-        url: /Gran-Paradiso/J2/
-      - title: "Du Torrent Costa Savolera aux Laghi del Nivolet"
-        url: /Gran-Paradiso/J3/
-      - title: "Des Laghi del Nivolet au Lago di Goletta"
-        url: /Gran-Paradiso/J4/
-      - title: "Du Lago di Goletta au Lago San Martino"
-        url: /Gran-Paradiso/J5/
-      - title: "Du Lago San Martino à La Motte"
-        url: /Gran-Paradiso/J6/
-      - title: "De La Motte à Bourg-Saint-Maurice"
-        url: /Gran-Paradiso/J7/
+        url: /Chemin-Stevenson/preambule/
+      - title: "Du Puy-en-Velay au Cros"
+        url: /Chemin-Stevenson/J1/
+      - title: "Du Cros à Landos"
+        url: /Chemin-Stevenson/J2/
+      - title: "De Landos aux Brugeyrolles"
+        url: /Chemin-Stevenson/J3/
+      - title: "Des Brugeyrolles à Luc"
+        url: /Chemin-Stevenson/J4/
+      - title: "De Luc à Chasseradès"
+        url: /Chemin-Stevenson/J5/
+      - title: "De Chasseradès au Bleymard"
+        url: /Chemin-Stevenson/J6/
+      - title: "Du Bleymard au Pont-de-Montvert"
+        url: /Chemin-Stevenson/J7/
+      - title: "Du Pont-de-Montvert à Florac"
+        url: /Chemin-Stevenson/J8/
+      - title: "De Florac à Saint-Germain-de-Calberte"
+        url: /Chemin-Stevenson/J9/
+      - title: "De Saint-Germain-de-Calberte à Saint-Jean-du-Gard"
+        url: /Chemin-Stevenson/J10/
+      - title: "De Saint-Jean-du-Gard à Alès"
+        url: /Chemin-Stevenson/J11/
       - title: "En bref"
-        url: /Gran-Paradiso/bref/
-  - title: "Expéditions à Mafate"
-    url: /Mafate/J1/
+        url: /Chemin-Stevenson/bref/
+      - title: "Références"
+        url: /Chemin-Stevenson/references/
 
-mafate:
-  - title: "Japoniaiseries"
-    url: /Japon/J0/
-  - title: "Lisa, Micka, Bolivia"
-    url: /Bolivie/J1-J2-J3-J4-J5/
-  - title: "Tour des Aiguilles Rouges"
-    url: /Aiguilles-Rouges/J1/
-  - title: "De Larche à Barcelonnette"
-    url: /Larche-Barcelonnette/J1/
+santo_antao:
   - title: "Santo Antão"
-    url: /Santo-Antao/J1/
-  - title: "Le chemin Stevenson (GR 70) en mode solo/bivouac/végétal/zéro déchet"
-    url: /GR-70/preambule/
-  - title: "96h non-stop 2018"
-    url: /96h-2018/J1/
-  - title: "I mafiosi in Sicilia"
-    url: /Sicile/mafiosi/
-  - title: "Mercantour nord"
-    url: /Mercantour-nord/J1/
-  - title: "De Modane à Briançon"
-    url: /Modane-Briancon/J1/
-  - title: "Du Piton des Neiges au Butor"
-    url: /Piton-Butor/J1/
-  - title: "De Laragne à Sisteron"
-    url: /Laragne-Sisteron/preambule/
-  - title: "Traversée des Bauges"
-    url: /Bauges/preambule/
-  - title: "De Gap à Cordéac"
-    url: /Gap-Cordeac/J1/
-  - title: "Gran Paradiso"
-    url: /Gran-Paradiso/bestiaux/
-  - title: "Expéditions à Mafate"
     children:
-      - title: "Du Maïdo à Aurère"
-        url: /Mafate/J1/
-      - title: "De Aurère à la Roche Ancrée"
-        url: /Mafate/J2/
-      - title: "De la Roche Ancrée à Marla"
-        url: /Mafate/J3/
-      - title: "De Marla à Cilaos"
-        url: /Mafate/J4/
-      - title: "Du Col des Bœufs à Roche Plate"
-        url: /Mafate/J20/
-      - title: "De Roche Plate au Col des Bœufs"
-        url: /Mafate/J21/
+      - title: "Arrivée à Mindelo"
+        url: /Santo-Antao/J1/
+      - title: "De Coculi à Chã de Pedras"
+        url: /Santo-Antao/J2/
+      - title: "De Chã de Pedras à Caibros"
+        url: /Santo-Antao/J3/
+      - title: "De Caibros à Chã de Igreja"
+        url: /Santo-Antao/J4/
+      - title: "De Chã de Igreja à Ponta Do Sol"
+        url: /Santo-Antao/J5/
+      - title: "De Ribeira da Torre à Corda"
+        url: /Santo-Antao/J6/
+      - title: "Chã de Padre"
+        url: /Santo-Antao/J7/
+      - title: "Retour à Mindelo et escale à Lisboa"
+        url: /Santo-Antao/J8/
+      - title: "Lisboa"
+        url: /Santo-Antao/J9/
+
+larche_barcelonnette:
+  - title: "De Larche à Barcelonnette"
+    children:
+      - title: "De Larche au Col des Fourches"
+        url: /Larche-Barcelonnette/J1/
+      - title: "Du Col des Fourches à Bayasse"
+        url: /Larche-Barcelonnette/J2/
+      - title: "De Bayasse à Barcelonnette"
+        url: /Larche-Barcelonnette/J3/
       - title: "En bref"
-        url: /Mafate/bref/
+        url: /Larche-Barcelonnette/bref/
+
+aiguilles_rouges:
+  - title: "Tour des Aiguilles Rouges"
+    children:
+      - title: "Du Merlet au Pont d'Arlevé"
+        url: /Aiguilles-Rouges/J1/
+      - title: "Du Pont d'Arlevé aux Bettes"
+        url: /Aiguilles-Rouges/J2/
+      - title: "Des Bettes au Lac de la Remuaz"
+        url: /Aiguilles-Rouges/J3/
+      - title: "Du Lac de la Remuaz au Merlet"
+        url: /Aiguilles-Rouges/J4/
+      - title: "En bref"
+        url: /Aiguilles-Rouges/bref/
+
+bolivie:
+  - title: "Lisa, Micka, Bolivia"
+    children:
+      - title: "Santa Cruz et Samaipata"
+        url: /Bolivie/J1-J2-J3-J4-J5/
+      - title: "Sucre"
+        url: /Bolivie/J6-J7-J8/
+      - title: "Maragua"
+        url: /Bolivie/J9-J10-J11/
+      - title: "Potosí"
+        url: /Bolivie/J12-J13-J14/
+      - title: "Tupiza"
+        url: /Bolivie/J15-J16/
+      - title: "Circuit dans le Sud Lípez et Uyuni"
+        url: /Bolivie/J17-J18-J19-J20-J21/
+      - title: "Cochabamba et Torotoro"
+        url: /Bolivie/J22-J23-J24-J25-J26/
+      - title: "Isla del Sol et Copacabana"
+        url: /Bolivie/J27-J28-J29-J30/
+      - title: "Rurrenabaque et Parque Nacional Madidi"
+        url: /Bolivie/J32-J33-J34-J35-J36/
+      - title: "Trek de Takesi"
+        url: /Bolivie/J38-J39/
+      - title: "La Paz et Tiwanaku"
+        url: /Bolivie/J31-J37-J40-J41-J42/
+      - title: "En bref"
+        url: /Bolivie/bref/
+
+japon:
+  - title: "Japoniaiseries"
+    children:
+      - title: "C'est parti !"
+        url: /Japon/J0/
+      - title: "Lost in Shibuya"
+        url: /Japon/J1/
+      - title: "Week-end à Tokyo"
+        url: /Japon/J2-J3/
+      - title: "Takayama"
+        url: /Japon/J4-J5/
+      - title: "Mont Yake"
+        url: /Japon/J6/
+      - title: "Kyoto et Osaka"
+        url: /Japon/J7-J8-J10-J11/
+      - title: "Nara"
+        url: /Japon/J9/
+      - title: "Takamatsu et Shodoshima"
+        url: /Japon/J12-J13/
+      - title: "Kotohira et Matsuyama"
+        url: /Japon/J14-J15/
+      - title: "Shimanami Kaido"
+        url: /Japon/J16-J17/
+      - title: "Hiroshima"
+        url: /Japon/J18/
+      - title: "Miyajima"
+        url: /Japon/J19/
+      - title: "Retour à Tokyo"
+        url: /Japon/J20-J21/
+      - title: "C'est fini !"
+        url: /Japon/J22/

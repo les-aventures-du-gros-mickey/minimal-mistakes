@@ -14,7 +14,7 @@ Nous avons préparé ce trek comme il se doit :
 Nous avons étudié de fond en comble la topographie des lieux :
 {% include image.html file="Gran-Paradiso/bref/P1080564.JPG" %}
 
-Nous avons œuvré à l'amitié franco-italienne:
+Nous avons œuvré à l'amitié franco-italienne :
 {% include image.html file="Gran-Paradiso/bref/IMG_1369.JPG" %}
 
 Nous avons sauté de joie devant de fabuleux décors :

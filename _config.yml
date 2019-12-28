@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "fr-FR"
 title                    : "Les aventures du Gros Mickey"
 title_separator          : "-"
-name                     : "Gros Mickey"
+name                     : &name "Le Gros Mickey"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,8 +103,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gros Mickey"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : *name
+  avatar           : "/assets/images/about.jpg"
   bio              :
   location         :
   email            :

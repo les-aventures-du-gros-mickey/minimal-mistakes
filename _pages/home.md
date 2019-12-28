@@ -6,5 +6,15 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/splash.jpg
-excerpt: "<br/>Un petit aperçu de mes aventures.<br/><br/>Pour le moment, ça démarre avec le chemin Stevenson, il y en aura peut-être d'autres par la suite, qui sait ? :)<br/>"
+excerpt: >
+    En l'abyssale cuirasse d'adulte ankylosé,<br/>
+    Puéril cœur séquestré, noyé sous les pensées,<br/>
+    <br/>
+    Émergeant farouchement, au gré des vives marées,<br/>
+    Voguant sereinement sur les flots de l'amitié,<br/>
+    <br/>
+    S'émerveillant de la vie tel le nouveau-né,<br/>
+    S'enivrant de bienveillance et de liberté,<br/>
+    <br/>
+    Ainsi pétillent les aventures du Gros Mickey<br/>
 ---

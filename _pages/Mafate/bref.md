@@ -40,7 +40,7 @@ Bref, grâce à la randonnée, nous nous sommes sentis pousser des ailes :
 
 ## Itinéraires complets
 
-{% include track.html id="expedition_1" file="Mafate/expedition_1.gpx" %}
+{% include track.html id="bref_1" file="Mafate/bref-1.gpx" %}
 
 Détails :
 * Météo :
@@ -51,7 +51,7 @@ Détails :
 * Dénivelé positif : ~5,5 km
 * Dénivelé négatif : ~6,5 km
 
-{% include track.html id="expedition_2" file="Mafate/expedition_2.gpx" %}
+{% include track.html id="bref_2" file="Mafate/bref-2.gpx" %}
 
 Détails :
 * Météo : brouillard, pluie et belles éclaircies :fog: :cloud_with_rain: :sun_behind_small_cloud:

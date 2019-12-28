@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gpx>
+
+  <wpt lat="35.664753913879395" lon="139.69809293746948">
+    <name>Shibuya</name>
+  </wpt>
+
+  <wpt lat="35.700759887695312" lon="139.70832824707031">
+    <name>Shinjuku</name>
+  </wpt>
+
+  <wpt lat="35.698378086090088" lon="139.77304458618164">
+    <name>Akihabara</name>
+  </wpt>
+
+  <wpt lat="36.139612197875977" lon="137.2510814666748">
+    <name>Takayama</name>
+  </wpt>
+
+  <wpt lat="36.228682994842529" lon="137.58953332901001">
+    <name>Mont Yake</name>
+  </wpt>
+
+  <wpt lat="35.018577575683594" lon="135.76389312744141">
+    <name>Kyoto</name>
+  </wpt>
+
+  <wpt lat="34.667079448699951" lon="135.49889087677002">
+    <name>Namba</name>
+  </wpt>
+
+  <wpt lat="34.684524536132812" lon="135.80474853515625">
+    <name>Nara</name>
+  </wpt>
+
+  <wpt lat="34.342575073242188" lon="134.04650688171387">
+    <name>Takamatsu</name>
+  </wpt>
+
+  <wpt lat="34.48333740234375" lon="134.23336029052734">
+    <name>Shodoshima</name>
+  </wpt>
+
+  <wpt lat="34.189624786376953" lon="133.81133079528809">
+    <name>Kotohira</name>
+  </wpt>
+
+  <wpt lat="33.839521408081055" lon="132.7653980255127">
+    <name>Matsuyama</name>
+  </wpt>
+
+  <wpt lat="34.259580485522747" lon="133.06389955803752">
+    <name>Shimanami Kaido</name>
+  </wpt>
+
+  <wpt lat="34.374504089355469" lon="132.44550704956055">
+    <name>Naka</name>
+  </wpt>
+
+  <wpt lat="34.272065162658691" lon="132.30927228927612">
+    <name>Miyajima</name>
+  </wpt>
+
+  <wpt lat="35.713376998901367" lon="139.77664947509766">
+    <name>Ueno</name>
+  </wpt>
+
+</gpx>
