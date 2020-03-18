@@ -11,9 +11,8 @@ enable_tracks: true
 {% include track.html id="bref" file="Modane-Briancon/bref.gpx" %}
 
 Détails :
-
-* Météo : beau temps globalement :sunny:
-* Étapes : 4
-* Dénivelé positif : 5050 m
-* Denivelé négatif : 4950 m
-* Distance : 73 km
+* beau temps globalement :sunny:
+* 3,5 étapes
+* 70 km
+* +5 km
+* -5 km

@@ -1,6 +1,10 @@
+{% comment %}
+file:        mandatory
+description: optional
+{% endcomment %}
 <figure style="display: inline-block; display: table; margin: 1em auto;">
-  <a data-fancybox="gallery" href="/assets/images/{{ include.file }}"{% if include.description %} data-caption="{{ include.description }}"{% endif %}>
+  <a data-fancybox="gallery" href="/assets/images/{{ include.file }}"{% if include.description %} data-caption="{{ include.description | markdownify }}"{% endif %}>
     <img src="/assets/images/{{ include.file }}" />
   </a>
-  {% if include.description %}<figcaption style="text-align: center;">{{ include.description }}</figcaption>{% endif %}
+  {% if include.description %}<figcaption style="text-align: center;">{{ include.description | markdownify }}</figcaption>{% endif %}
 </figure>

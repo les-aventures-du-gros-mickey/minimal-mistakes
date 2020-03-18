@@ -31,7 +31,10 @@ La semoule c'est magique, il suffit juste d'être patient :smile:
 
 Pas de ravitaillement implique pas de déchet !
 
-{% include image.html file="Laragne-Sisteron/bilan/P1070419.JPG" description="La boîte à &quot;popo&quot; (papier toilette) et les noyaux de dattes" %}
+{% capture description %}
+La boîte à "popo" (papier toilette) et les noyaux de dattes
+{% endcapture %}
+{% include image.html file="Laragne-Sisteron/bilan/P1070419.JPG" description=description %}
 
 Les noyaux de dattes seront revalorisés en compost. Mais la prochaine fois je ne prends que des figues et j'aurai une poubelle vide :sunglasses:
 
@@ -44,8 +47,8 @@ Merci Hassan Cehef, grâce à ta carte week-end, j'ai pu être flexible sur mes 
 {% include track.html id="bref" file="Laragne-Sisteron/bref.gpx" %}
 
 Détails :
-* Météo : très beau temps globalement :sunny:
-* Étapes : 5 (3 étapes et 2 demi-étapes)
-* Distance : ~91 km
-* Dénivelé positif : ~5 km
-* Dénivelé négatif : ~5 km
+* très beau temps globalement :sunny:
+* 5 étapes (3 "vraies" étapes et 2 demi-étapes)
+* 90 km
+* +5 km
+* -5 km

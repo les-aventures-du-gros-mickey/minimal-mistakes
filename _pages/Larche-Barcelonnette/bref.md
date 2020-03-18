@@ -11,9 +11,8 @@ enable_tracks: true
 {% include track.html id="bref" file="Larche-Barcelonnette/bref.gpx" %}
 
 Détails :
-
-* Météo : beau temps tous les jours :sunny:
-* Étapes : 3
-* Dénivelé positif : 3650 m
-* Denivelé négatif : 4200 m
-* Distance : 58 km
+* beau temps tous les jours :sunny:
+* 3 étapes
+* 55 km
+* +3,5 km
+* -4 km

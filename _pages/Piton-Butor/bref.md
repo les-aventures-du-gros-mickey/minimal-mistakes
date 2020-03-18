@@ -15,8 +15,8 @@ Marcher du Piton des Neiges, point culminant de la Réunion, au Butor, quartier 
 {% include track.html id="bref" file="Piton-Butor/bref.gpx" %}
 
 Détails :
-* Météo : beau temps globalement :sunny:
-* Étapes : 4
-* Dénivelé positif : 3400 m
-* Denivelé négatif : 4400 m
-* Distance : 74 km
+* beau temps globalement :sunny:
+* 4 étapes
+* 75 km
+* +3,25 km
+* -4,25 km

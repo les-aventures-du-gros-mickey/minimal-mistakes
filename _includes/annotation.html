@@ -1,0 +1,6 @@
+{% comment %}
+base_text:            mandatory
+annotations_1:        optional
+annotations_2:        optional
+litteral_translation: optional
+{% endcomment %}(<ruby><rb>{{ include.base_text }}</rb>{% if include.annotations_1 %}<rt>{{ include.annotations_1 }}</rt>{% endif %}{% if include.annotations_2 %}<rtc><rt>{{ include.annotations_2 }}</rt></rtc>{% endif %}</ruby>{% if include.litteral_translation %}, "{{ include.litteral_translation }}"{% endif %})

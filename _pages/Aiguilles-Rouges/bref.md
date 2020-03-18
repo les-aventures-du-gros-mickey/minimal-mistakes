@@ -11,8 +11,8 @@ enable_tracks: true
 {% include track.html id="bref" file="Aiguilles-Rouges/bref.gpx" %}
 
 Détails :
-* Météo : très belles journées ensoleillées :sunny:
-* Étapes : 4
-* Dénivelé positif : 4850 m
-* Denivelé négatif : 4900 m
-* Distance : 57 km
+* belles journées ensoleillées :sunny:
+* 4 étapes
+* 55 km
+* +4,5 km
+* -4,5 km

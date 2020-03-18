@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <gpx>
 
   <trk>
@@ -287,12 +287,6 @@
       </trkpt>
       <trkpt lat="45.10844087228179" lon="6.589978588744998">
         <ele>2453.902587890625</ele>
-      </trkpt>
-      <trkpt lat="45.108499964699149" lon="6.590717872604728">
-        <ele>2453.421875</ele>
-      </trkpt>
-      <trkpt lat="45.108222356066108" lon="6.589506939053536">
-        <ele>2455.344482421875</ele>
       </trkpt>
       <trkpt lat="45.108491918072104" lon="6.590645452961326">
         <ele>2452.46044921875</ele>

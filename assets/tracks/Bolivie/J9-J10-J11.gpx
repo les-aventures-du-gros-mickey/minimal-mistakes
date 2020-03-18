@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <gpx>
 
+  <wpt lat="-19.052052330225706" lon="-65.430061351507902">
+    <sym>logement</sym>
+  </wpt>
+
   <trk>
     <trkseg>
       <trkpt lat="-18.989040786400437" lon="-65.404730988666415">

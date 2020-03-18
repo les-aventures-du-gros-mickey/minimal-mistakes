@@ -24,8 +24,8 @@ enable_tracks: true
 {% include track.html id="bref" file="Bauges/bref.gpx" %}
 
 Détails :
-* Météo : grand soleil tous les jours :sunny:
-* Étapes : 8,1
-* Distance : ~145 km
-* Dénivelé positif : ~11,5 km
-* Dénivelé négatif : ~11,4 km
+* grand soleil tous les jours :sunny:
+* 8,1 étapes
+* 140 km
+* +11,5 km
+* -11 km

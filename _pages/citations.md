@@ -70,9 +70,14 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 > All natural and technological processes proceed in such a way that the availability of the remaining energy decreases<br/>
 > In all energy exchanges, if no energy enters or leaves an isolated system, the entropy of that system increases<br/>
 > Energy continuously flows from being concentrated, to becoming dispersed, spread out, wasted and useless<br/>
-> New energy cannot be created and high grade energy is being destroyed. An economy based on endless growth is<br/>
+> New energy cannot be created and high grade energy is being destroyed<br/>
+> An economy based on endless growth is<br/>
 > Unsustainable<br/>
-> You're unsustainable<br/>
+> [...]<br/>
+> The fundamental laws of thermodynamics will place fixed limits on technological innovation and human advancement<br/>
+> In an isolated system, the entropy can only increase<br/>
+> A species set on endless growth is<br/>
+> Unsustainable<br/>
 
 > Muse <cite>The 2nd Law: Unsustainable</cite>
 
@@ -183,10 +188,6 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 > As-tu mis de l'insouciance dans ta journée ?<br/>
 
 > Cédric Sapin-Defour <cite>Cap ? (Double Espresso)</cite>
-
-> Regarde la réalité en farce<br/>
-
-> Miss.Tic
 
 ## Rêve
 

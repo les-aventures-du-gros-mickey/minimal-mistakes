@@ -11,8 +11,8 @@ enable_tracks: true
 {% include track.html id="bref" file="Gap-Cordeac/bref.gpx" %}
 
 Détails :
-* Météo : beau temps globalement :sunny:
-* Étapes : 5
-* Distance : ~89 km
-* Dénivelé positif : ~7,3 km
-* Dénivelé négatif : ~7,1 km
+* beau temps globalement :sunny:
+* 5 étapes
+* 85 km
+* +7 km
+* -7 km

@@ -175,6 +175,8 @@ mercantour_nord:
         url: /Mercantour-nord/J3/
       - title: "Des lacs de Vens à Saint-Étienne-de-Tinée"
         url: /Mercantour-nord/J4/
+      - title: "En bref"
+        url: /Mercantour-nord/bref/
 
 sicile:
   - title: "I mafiosi in Sicilia"

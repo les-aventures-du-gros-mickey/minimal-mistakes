@@ -67,10 +67,11 @@ Je n'ai par contre pas ramené la bouteille de la bière Stevenson (elle est en 
 {% include track.html id="bref" file="Chemin-Stevenson/bref.gpx" %}
 
 Détails :
-* Étapes : 11
-* Distance : ~290 km
-* Dénivelé positif : ~11,5 km
-* Dénivelé négatif : ~12,0 km
+* météo mitigée, suffisamment clémente et plutôt changeante :sun_behind_small_cloud: :cloud_with_rain: :snowflake: :sun_behind_large_cloud: :sunny:
+* 11 étapes
+* 280 km
+* +10,5 km
+* -11 km
 
 Généralement :
 * Les - :
