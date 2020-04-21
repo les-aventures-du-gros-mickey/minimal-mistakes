@@ -262,28 +262,6 @@ chemin_stevenson:
       - title: "Références"
         url: /Chemin-Stevenson/references/
 
-santo_antao:
-  - title: "Santo Antão"
-    children:
-      - title: "Arrivée à Mindelo"
-        url: /Santo-Antao/J1/
-      - title: "De Coculi à Chã de Pedras"
-        url: /Santo-Antao/J2/
-      - title: "De Chã de Pedras à Caibros"
-        url: /Santo-Antao/J3/
-      - title: "De Caibros à Chã de Igreja"
-        url: /Santo-Antao/J4/
-      - title: "De Chã de Igreja à Ponta Do Sol"
-        url: /Santo-Antao/J5/
-      - title: "De Ribeira da Torre à Corda"
-        url: /Santo-Antao/J6/
-      - title: "Chã de Padre"
-        url: /Santo-Antao/J7/
-      - title: "Retour à Mindelo et escale à Lisboa"
-        url: /Santo-Antao/J8/
-      - title: "Lisboa"
-        url: /Santo-Antao/J9/
-
 larche_barcelonnette:
   - title: "De Larche à Barcelonnette"
     children:

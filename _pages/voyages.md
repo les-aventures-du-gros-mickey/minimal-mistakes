@@ -7,9 +7,6 @@ voyages_2018:
     excerpt: "I mafiosi in Sicilia"
     url: "/Sicile/mafiosi/"
 voyages_2017:
-  - image_path: /assets/images/thumbs/P1050475.JPG
-    excerpt: "Santo Antão"
-    url: "/Santo-Antao/J1/"
   - image_path: /assets/images/thumbs/IMG_3651.JPG
     excerpt: "Lisa, Micka, Bolivia"
     url: "/Bolivie/J1-J2-J3-J4-J5/"
