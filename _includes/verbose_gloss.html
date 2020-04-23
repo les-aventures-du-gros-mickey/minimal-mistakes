@@ -1,0 +1,6 @@
+{% comment %}
+base_text:            mandatory
+annotations_1:        optional
+annotations_2:        optional
+litteral_translation: optional
+{% endcomment %}({% include gloss.html base_text=include.base_text annotations_1=include.annotations_1 annotations_2=include.annotations_2 %}{% if include.litteral_translation %}, "{{ include.litteral_translation }}"{% endif %})

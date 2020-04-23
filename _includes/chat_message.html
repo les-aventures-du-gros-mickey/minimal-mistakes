@@ -1,0 +1,5 @@
+{% comment %}
+name:    mandatory
+color:   mandatory
+message: mandatory
+{% endcomment %}<span style="background-color: {{ include.color }}; border-radius: 8px; padding: 0 8px;">{{ include.name }} :</span> {{ include.message | markdownify | remove: '<p>' | remove: '</p>' }}<br/>

@@ -34,6 +34,34 @@ citations:
     - title: "Grandir"
       url: /citations#grandir
 
+jordanie:
+  - title: "Mille-et-une nuits en Jordanie"
+    children:
+      - title: "Préambule"
+        url: /Jordanie/preambule/
+      - title: "De Aqaba à Humeima"
+        url: /Jordanie/J1-J2-J3-J4-J5/
+      - title: "De Humeima à Wadi Musa"
+        url: /Jordanie/J6-J7-J8-J9/
+      - title: "Pétra"
+        url: /Jordanie/J10-J11/
+      - title: "De Wadi Musa à Dana"
+        url: /Jordanie/J12-J13-J14/
+      - title: "De Dana à Karak"
+        url: /Jordanie/J15-J16-J17-J18/
+      - title: "De Karak à Wadi Zarqa' Ma'in"
+        url: /Jordanie/J19-J20-J21/
+      - title: "De Wadi Zarqa' Ma'in à Salt"
+        url: /Jordanie/J22-J23-J24-J25-J26/
+      - title: "De Salt à Irjan"
+        url: /Jordanie/J27-J28-J29/
+      - title: "De Irjan à Umm Qays"
+        url: /Jordanie/J30-J31-J32/
+      - title: "En bref"
+        url: /Jordanie/bref/
+      - title: "FAQ"
+        url: /Jordanie/FAQ/
+
 mafate:
   - title: "Expéditions à Mafate"
     children:

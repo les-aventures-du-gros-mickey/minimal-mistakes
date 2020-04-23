@@ -2,6 +2,10 @@
 title: "Treks"
 permalink: /treks/
 layout: splash
+treks_2020:
+  - image_path: /assets/images/thumbs/DSC00403.JPG
+    excerpt: "Mille-et-une nuits en Jordanie"
+    url: "/Jordanie/preambule/"
 treks_2019:
   - image_path: /assets/images/thumbs/P1080804.JPG
     excerpt: "Expéditions à Mafate"
@@ -43,6 +47,10 @@ treks_2017:
 ## Préambule
 
 Si tu souhaites t'inspirer de mes treks, avant de foncer tête baissée, jette un œil aux [avertissements](#avertissements) et [conseils](#conseils) :wink:
+
+## 2020
+
+{% include feature_row id="treks_2020" %}
 
 ## 2019
 

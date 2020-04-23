@@ -199,6 +199,17 @@ li ol {
   margin-top: 0.5em;
 }
 
+ul.conversation {
+  list-style-type: '-';
+  margin: 0;
+  padding: 0;
+}
+
+ul.conversation li {
+  margin: 0em;
+  padding-left: 0.5em; 
+}
+
 /*
    Media and embeds
    ========================================================================== */

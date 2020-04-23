@@ -2,6 +2,10 @@
 title: "Voyages"
 permalink: /voyages/
 layout: splash
+voyages_2020:
+  - image_path: /assets/images/thumbs/DSC00403.JPG
+    excerpt: "Mille-et-une nuits en Jordanie"
+    url: "/Jordanie/preambule/"
 voyages_2018:
   - image_path: /assets/images/thumbs/LG_20180626_115849.jpg
     excerpt: "I mafiosi in Sicilia"
@@ -15,6 +19,10 @@ voyages_2016:
     excerpt: "Japoniaiseries"
     url: "/Japon/J0/"
 ---
+
+## 2020
+
+{% include feature_row id="voyages_2020" %}
 
 ## 2018
 
