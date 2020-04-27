@@ -60,4 +60,4 @@ On a fait la sieste comme toute citrouille digne de ce nom :
 Bref, la Sicile c'est triplement le pied !
 {% include image.html file="Sicile/bref/2018_07_01_12h05m47_Mickey_Panasonic_P1060300.JPG" %}
 
-{% include track.html id="bref" file="Sicile/bref.gpx" add_ign_layer="false" %}
+{% include track.html file="Sicile/bref.gpx" layers="TF,OTM,OSM" %}

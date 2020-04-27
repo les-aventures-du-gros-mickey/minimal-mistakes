@@ -44,7 +44,7 @@ Merci Hassan Cehef, grâce à ta carte week-end, j'ai pu être flexible sur mes 
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Laragne-Sisteron/bref.gpx" %}
+{% include track.html file="Laragne-Sisteron/bref.gpx" %}
 
 Détails :
 * très beau temps globalement :sunny:

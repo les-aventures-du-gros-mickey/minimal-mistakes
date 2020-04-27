@@ -8,7 +8,7 @@ enable_tracks: true
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Larche-Barcelonnette/bref.gpx" %}
+{% include track.html file="Larche-Barcelonnette/bref.gpx" %}
 
 Détails :
 * beau temps tous les jours :sunny:

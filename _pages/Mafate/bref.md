@@ -40,7 +40,7 @@ Bref, grâce à la randonnée, on s'est sentis pousser des ailes :
 
 ## Itinéraires complets
 
-{% include track.html id="bref_1" file="Mafate/bref-1.gpx" %}
+{% include track.html id="map-1" file="Mafate/bref-1.gpx" %}
 
 Détails :
 * beau temps globalement :sunny:
@@ -50,7 +50,7 @@ Détails :
 * +5,25 km
 * -6,25 km
 
-{% include track.html id="bref_2" file="Mafate/bref-2.gpx" %}
+{% include track.html id="map-2" file="Mafate/bref-2.gpx" %}
 
 Détails :
 * brouillard, pluie et belles éclaircies :fog: :cloud_with_rain: :sun_behind_small_cloud:

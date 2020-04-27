@@ -8,7 +8,7 @@ enable_tracks: true
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Modane-Briancon/bref.gpx" %}
+{% include track.html file="Modane-Briancon/bref.gpx" %}
 
 Détails :
 * beau temps globalement :sunny:

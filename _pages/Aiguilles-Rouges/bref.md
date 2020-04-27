@@ -8,7 +8,7 @@ enable_tracks: true
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Aiguilles-Rouges/bref.gpx" %}
+{% include track.html file="Aiguilles-Rouges/bref.gpx" %}
 
 Détails :
 * belles journées ensoleillées :sunny:

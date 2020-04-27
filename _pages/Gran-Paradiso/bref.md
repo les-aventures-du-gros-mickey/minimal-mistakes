@@ -43,7 +43,7 @@ Bref, on est allés vers l'infini et au-delà :
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Gran-Paradiso/bref.gpx" %}
+{% include track.html file="Gran-Paradiso/bref.gpx" %}
 
 Détails :
 * nuageux en début et fin de trek :partly_sunny:

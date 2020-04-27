@@ -12,7 +12,7 @@ Marcher du Piton des Neiges, point culminant de la Réunion, au Butor, quartier 
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Piton-Butor/bref.gpx" %}
+{% include track.html file="Piton-Butor/bref.gpx" %}
 
 Détails :
 * beau temps globalement :sunny:

@@ -21,7 +21,7 @@ enable_tracks: true
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Bauges/bref.gpx" %}
+{% include track.html file="Bauges/bref.gpx" %}
 
 Détails :
 * grand soleil tous les jours :sunny:

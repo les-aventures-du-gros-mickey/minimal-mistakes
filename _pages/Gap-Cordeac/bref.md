@@ -8,7 +8,7 @@ enable_tracks: true
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Gap-Cordeac/bref.gpx" %}
+{% include track.html file="Gap-Cordeac/bref.gpx" %}
 
 Détails :
 * beau temps globalement :sunny:

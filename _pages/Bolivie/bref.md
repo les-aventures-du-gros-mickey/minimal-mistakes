@@ -36,4 +36,4 @@ On a admiré la tenue traditionnelle des boliviennes :
 Et bien sûr on a croisé des lamas :
 {% include image.html file="Bolivie/bref/P1050056.JPG" %}
 
-{% include track.html id="bref" file="Bolivie/bref.gpx" add_ign_layer="false" %}
+{% include track.html file="Bolivie/bref.gpx" layers="TF,OTM,OSM" %}

@@ -8,7 +8,7 @@ enable_tracks: true
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Mercantour-nord/bref.gpx" %}
+{% include track.html file="Mercantour-nord/bref.gpx" %}
 
 Détails :
 * journées de plus en plus belles :cloud: :sun_behind_large_cloud: :sun_behind_small_cloud: :sunny:

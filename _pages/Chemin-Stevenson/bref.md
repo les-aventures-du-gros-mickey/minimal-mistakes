@@ -64,7 +64,7 @@ Je n'ai par contre pas ramené la bouteille de la bière Stevenson (elle est en 
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Chemin-Stevenson/bref.gpx" %}
+{% include track.html file="Chemin-Stevenson/bref.gpx" %}
 
 Détails :
 * météo mitigée, suffisamment clémente et plutôt changeante :sun_behind_small_cloud: :cloud_with_rain: :snowflake: :sun_behind_large_cloud: :sunny:

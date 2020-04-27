@@ -54,7 +54,7 @@ Bref, *welcome*
 
 ## Itinéraire complet
 
-{% include track.html id="bref" file="Jordanie/bref.gpx" add_ign_layer="false" %}
+{% include track.html file="Jordanie/bref.gpx" layers="TF,OTM,OSM,OSMFR" %}
 
 Détails d'étapes :
 * 28 étapes
