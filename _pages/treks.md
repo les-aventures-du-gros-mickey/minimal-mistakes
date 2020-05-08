@@ -39,7 +39,7 @@ treks_2017:
   - image_path: /assets/images/thumbs/P1050369.JPG
     excerpt: "De Larche à Barcelonnette"
     url: "/Larche-Barcelonnette/J1/"
-  - image_path: /assets/images/thumbs/P1040168.JPG
+  - image_path: /assets/images/thumbs/70f7cc3c-68fb-4d88-8a62-537d6fcb6972.jpg
     excerpt: "Tour des Aiguilles Rouges"
     url: "/Aiguilles-Rouges/J1/"
 ---
