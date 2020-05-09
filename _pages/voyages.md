@@ -11,7 +11,7 @@ voyages_2018:
     excerpt: "I mafiosi in Sicilia"
     url: "/Sicile/mafiosi/"
 voyages_2017:
-  - image_path: /assets/images/thumbs/IMG_3651.JPG
+  - image_path: /assets/images/thumbs/2d57ef3d-956e-43ed-b5cf-f2fa40c69519.jpg
     excerpt: "Lisa, Micka, Bolivia"
     url: "/Bolivie/J1-J2-J3-J4-J5/"
 voyages_2016:
