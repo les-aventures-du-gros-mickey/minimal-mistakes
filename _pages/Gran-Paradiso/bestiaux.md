@@ -7,7 +7,7 @@ sidebar:
 
 ## Tof "le yéti"
 
-{% include image.html file="Gran-Paradiso/bestiaux/98ac50da-f026-46d6-af96-ff584283b335.jpg" %}
+{% include image.html file="Gran-Paradiso/bestiaux/98ac50da-f026-46d6-af96-ff584283b336.jpg" %}
 
 * Maîtrise de l'italien : :it: :it:
 * Capacité de portage : :school_satchel: :school_satchel: :school_satchel: :school_satchel:
@@ -20,7 +20,7 @@ sidebar:
 
 ## Mickey "le dahu"
 
-{% include image.html file="Gran-Paradiso/bestiaux/98ac50da-f026-46d6-af96-ff584283b336.jpg" %}
+{% include image.html file="Gran-Paradiso/bestiaux/98ac50da-f026-46d6-af96-ff584283b337.jpg" %}
 
 * Maîtrise de l'italien : :it: :it:
 * Capacité de portage : :school_satchel: :school_satchel: :school_satchel:
