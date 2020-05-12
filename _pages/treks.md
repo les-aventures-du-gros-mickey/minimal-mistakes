@@ -32,7 +32,7 @@ treks_2018:
   - image_path: /assets/images/thumbs/IMG_0709.JPG
     excerpt: "Mercantour nord"
     url: "/Mercantour-nord/J1/"
-  - image_path: /assets/images/thumbs/P1050591.JPG
+  - image_path: /assets/images/thumbs/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a687.jpg
     excerpt: "Chemin Stevenson"
     url: "/Chemin-Stevenson/preambule/"
 treks_2017:

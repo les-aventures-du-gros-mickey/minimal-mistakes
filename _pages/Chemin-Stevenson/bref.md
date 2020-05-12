@@ -16,7 +16,7 @@ J'ajoute juste que le trek en solo c'est :
 * partager des philosophies de vie (et des blagues pourries)
 * la liberté :smile:
 
-{% include image.html file="Chemin-Stevenson/bref/P1050628.JPG" %}
+{% include image.html file="Chemin-Stevenson/bref/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a797.jpg" %}
 
 ## Bivouac
 
@@ -38,16 +38,16 @@ Globalement, il n'est pas simple de bivouaquer proprement sur ce GR :
 
 Boulangeries et épiceries se trouvent facilement tout au long de ce GR.
 
-{% include image.html file="Chemin-Stevenson/bref/P1050767.JPG" description="100% végétal mais 100% déchet" %}
+{% include image.html file="Chemin-Stevenson/bref/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a798.jpg" description="100% végétal mais 100% déchet" %}
 
 Même si le choix de n'est pas folichon, il est assez facile de respecter un régime végétalien.
 Il n'est cependant pas très varié (longue vie aux cacahuètes).
 
 ## Zéro déchet
 
-{% include image.html file="Chemin-Stevenson/bref/P1050969.JPG" description="11 jours de déchets produits trimballés jusqu'au bout" %}
+{% include image.html file="Chemin-Stevenson/bref/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a799.jpg" description="11 jours de déchets produits trimballés jusqu'au bout" %}
 
-{% include image.html file="Chemin-Stevenson/bref/P1050970.JPG" description="Et en volume ça prend à peu près 1 L" %}
+{% include image.html file="Chemin-Stevenson/bref/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a800.jpg" description="Et en volume ça prend à peu près 1 L" %}
 
 J'ai produit 400 g de déchets sur 11 jours :
 * 150 g de piles pour GPS
@@ -95,7 +95,7 @@ Les régions traversées :
 
 En gros, au départ, j'avais 17 kg sur le dos et à l'arrivée un peu moins de 13 kg.
 
-{% include image.html file="Chemin-Stevenson/bref/P1050807.JPG" description="J'ai de la marge par rapport au sac de 30 kg d'Anthony" %}
+{% include image.html file="Chemin-Stevenson/bref/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a801.jpg" description="J'ai de la marge par rapport au sac de 30 kg d'Anthony" %}
 
 À oublier pour le prochain trek :
 * la tablette pour regarder des séries dans le train quand il n'y a pas de train

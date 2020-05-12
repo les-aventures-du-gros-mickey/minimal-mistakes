@@ -5,7 +5,7 @@ sidebar:
   nav: "chemin_stevenson"
 ---
 
-{% include image.html file="Chemin-Stevenson/preambule/P1050591.JPG" %}
+{% include image.html file="Chemin-Stevenson/preambule/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a688.jpg" %}
 
 ## Pourquoi ?
 
@@ -30,11 +30,11 @@ sidebar:
 
 ## Matériel
 
-{% include image.html file="Chemin-Stevenson/preambule/P1050576.JPG" description="Bouffe" %}
+{% include image.html file="Chemin-Stevenson/preambule/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a689.jpg" description="Bouffe" %}
 
-{% include image.html file="Chemin-Stevenson/preambule/P1050578.JPG" description="Dodo, flotte et guide" %}
+{% include image.html file="Chemin-Stevenson/preambule/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a690.jpg" description="Dodo, flotte et guide" %}
 
-{% include image.html file="Chemin-Stevenson/preambule/P1050579.JPG" description="Fringues" %}
+{% include image.html file="Chemin-Stevenson/preambule/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a691.jpg" description="Fringues" %}
 
 ## Références
 
