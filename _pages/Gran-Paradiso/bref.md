@@ -9,37 +9,37 @@ enable_tracks: true
 ## Accomplissements
 
 On a préparé ce trek comme il se doit :
-{% include image.html file="Gran-Paradiso/bref/P1080509.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b409.jpg" %}
 
 On a étudié de fond en comble la topographie des lieux :
-{% include image.html file="Gran-Paradiso/bref/P1080564.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b410.jpg" %}
 
 On a œuvré à l'amitié franco-italienne :
-{% include image.html file="Gran-Paradiso/bref/IMG_1369.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b411.jpg" %}
 
 On a sauté de joie devant de fabuleux décors :
-{% include image.html file="Gran-Paradiso/bref/IMG_1278.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b412.jpg" %}
 
 On a joué au ~~frisbee~~ *frisbouse* :
-{% include image.html file="Gran-Paradiso/bref/P1080704.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b413.jpg" %}
 
 On n'a pas rencontré d'ours :
-{% include image.html file="Gran-Paradiso/bref/P1080724.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b414.jpg" %}
 
 Tel King-Kong, on a gravi des monuments :
-{% include image.html file="Gran-Paradiso/bref/IMG_1351.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b415.jpg" %}
 
 On est passés par le GPT (Gran Paradiso Trail) mais on n'en a pas fait des caisses :
-{% include image.html file="Gran-Paradiso/bref/P1080603.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b416.jpg" %}
 
 On a visité une maison de hobbit :
-{% include image.html file="Gran-Paradiso/bref/P1080663.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b417.jpg" %}
 
 On a déjoué des pièges sournois :
-{% include image.html file="Gran-Paradiso/bref/IMG_1372.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b418.jpg" %}
 
 Bref, on est allés vers l'infini et au-delà :
-{% include image.html file="Gran-Paradiso/bref/IMG_1379.JPG" %}
+{% include image.html file="Gran-Paradiso/bref/98ac50da-f026-46d6-af96-ff584283b419.jpg" %}
 
 ## Itinéraire complet
 

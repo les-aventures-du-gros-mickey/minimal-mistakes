@@ -10,7 +10,7 @@ treks_2019:
   - image_path: /assets/images/thumbs/P1080804.JPG
     excerpt: "Expéditions à Mafate"
     url: "/Mafate/J1/"
-  - image_path: /assets/images/thumbs/IMG_1284.JPG
+  - image_path: /assets/images/thumbs/98ac50da-f026-46d6-af96-ff584283b335.jpg
     excerpt: "Gran Paradiso"
     url: "/Gran-Paradiso/bestiaux/"
   - image_path: /assets/images/thumbs/6568ff47-cbba-4b87-9986-a6c58851f707.jpg
