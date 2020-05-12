@@ -13,7 +13,7 @@ treks_2019:
   - image_path: /assets/images/thumbs/IMG_1284.JPG
     excerpt: "Gran Paradiso"
     url: "/Gran-Paradiso/bestiaux/"
-  - image_path: /assets/images/thumbs/P1080419.JPG
+  - image_path: /assets/images/thumbs/6568ff47-cbba-4b87-9986-a6c58851f707.jpg
     excerpt: "De Gap à Cordéac"
     url: "/Gap-Cordeac/J1/"
   - image_path: /assets/images/thumbs/1f1f9a82-c663-40d8-9f00-10a53e3c3051.jpg
