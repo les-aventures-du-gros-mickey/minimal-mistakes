@@ -9,48 +9,48 @@ enable_tracks: true
 ## Accomplissements
 
 On a marché dans le sable chaud :
-{% include image.html file="Jordanie/bref/DSC00270.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2015.jpg" %}
 
 On a fait de la rando aquatique :
-{% include image.html file="Jordanie/bref/DSC00620.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2016.jpg" %}
 
 On a pataugé dans la gadoue :
-{% include image.html file="Jordanie/bref/DSC00794.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2017.jpg" %}
 
 On a traversé la jungle :
-{% include image.html file="Jordanie/bref/DSC00957.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2018.jpg" %}
 
 On a dansé le disco dans un *wadi, wadi cool* (*Wadi Bonehem*) :
-{% include image.html file="Jordanie/bref/DSC00438.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2019.jpg" %}
 
 On n'a pas joué à 7 Wonders à *Pétra* :
-{% include image.html file="Jordanie/bref/DSC00465.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2020.jpg" %}
 
 On a fait cuire des pâtes à l'énergie solaire :
-{% include image.html file="Jordanie/bref/DSC00458.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2021.jpg" %}
 
 On a mangé des kilos de *houmous* de rando :
-{% include image.html file="Jordanie/bref/DSC00196.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2022.jpg" %}
 
 On s'est empriffrés aux petits déjeuners :
-{% include image.html file="Jordanie/bref/DSC01202.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2023.jpg" %}
 
 On a voyagé au centre de la terre :
-{% include image.html file="Jordanie/bref/DSC01020.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2024.jpg" %}
 
 On a fait les rats d'égout :
-{% include image.html file="Jordanie/bref/DSC00726.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2025.jpg" %}
 
 Parfois ça sentait le chacal :
-{% include image.html file="Jordanie/bref/DSC00782.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2026.jpg" %}
 
 On a lézardé au soleil :
-{% include image.html file="Jordanie/bref/DSC00592.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2027.jpg" %}
 
 Bref, *welcome*
 {% include verbose_gloss.html base_text="أهلا وسهلا‎" annotations_1="ʾahla wsahla" %},
 *welcome to Jordan* !
-{% include image.html file="Jordanie/bref/DSC00519.JPG" %}
+{% include image.html file="Jordanie/bref/fe48cee6-a910-4e3e-9aa3-f31b137a2028.jpg" %}
 
 ## Itinéraire complet
 

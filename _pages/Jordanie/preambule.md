@@ -19,7 +19,7 @@ sidebar:
 {% include chat_message.html name="Sandy" color=color_2 message="Parfait, moi j'ai déjà toute ma panoplie !" %}
 {% include chat_message.html name="Micky" color=color_1 message="Bien, c'est parti pour **mille-et-une nuits en Jordanie** !" %}
 
-{% include image.html file="Jordanie/preambule/DSC00241.JPG" description="Les renards du désert sont prêts !" %}
+{% include image.html file="Jordanie/preambule/fe48cee6-a910-4e3e-9aa3-f31b137a1904.jpg" description="Les renards du désert sont prêts !" %}
 
 Alors, pour résumer, l'idée de cette aventure est de tenter l'éco-tourisme, en alliant trek et voyage :
 * minimiser l'utilisation de véhicules personnels

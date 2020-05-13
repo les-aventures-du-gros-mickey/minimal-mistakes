@@ -3,7 +3,7 @@ title: "Treks"
 permalink: /treks/
 layout: splash
 treks_2020:
-  - image_path: /assets/images/thumbs/DSC00403.JPG
+  - image_path: /assets/images/thumbs/fe48cee6-a910-4e3e-9aa3-f31b137a1903.jpg
     excerpt: "Mille-et-une nuits en Jordanie"
     url: "/Jordanie/preambule/"
 treks_2019:

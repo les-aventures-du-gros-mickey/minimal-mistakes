@@ -3,7 +3,7 @@ title: "Voyages"
 permalink: /voyages/
 layout: splash
 voyages_2020:
-  - image_path: /assets/images/thumbs/DSC00403.JPG
+  - image_path: /assets/images/thumbs/fe48cee6-a910-4e3e-9aa3-f31b137a1903.jpg
     excerpt: "Mille-et-une nuits en Jordanie"
     url: "/Jordanie/preambule/"
 voyages_2018:
