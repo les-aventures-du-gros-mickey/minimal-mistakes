@@ -15,7 +15,7 @@ voyages_2017:
     excerpt: "Lisa, Micka, Bolivia"
     url: "/Bolivie/J1-J2-J3-J4-J5/"
 voyages_2016:
-  - image_path: /assets/images/thumbs/IMG_1539.JPG
+  - image_path: /assets/images/thumbs/bd15226f-d12b-4da1-9626-c934642d7398.jpg
     excerpt: "Japoniaiseries"
     url: "/Japon/J0/"
 ---
