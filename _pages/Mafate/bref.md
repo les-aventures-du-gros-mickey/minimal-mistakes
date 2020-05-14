@@ -9,34 +9,34 @@ enable_tracks: true
 ## Accomplissements
 
 On n'est pas allés au Piton des Neiges :
-{% include image.html file="Mafate/bref/P1080953.JPG" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5461.jpg" %}
 
 On n'a pas capturé de pokémon :
-{% include image.html file="Mafate/bref/P1080827.JPG" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5462.jpg" %}
 
 On a consommé local :
-{% include image.html file="Mafate/bref/WA0017.jpg" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5463.jpg" %}
 
 On a admiré les étoiles :
-{% include image.html file="Mafate/bref/IMG_6915.JPG" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5464.jpg" %}
 
 On a participé à un défilé de mode :
-{% include image.html file="Mafate/bref/WA0023.jpg" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5465.jpg" %}
 
 On a franchi des torrents tels d'agiles félins :
-{% include image.html file="Mafate/bref/IMG_7016.JPG" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5466.jpg" %}
 
 On est tombés amoureux :
-{% include image.html file="Mafate/bref/P1090018.JPG" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5467.jpg" %}
 
 On a su profiter des beaux jours :
-{% include image.html file="Mafate/bref/G0061976.JPG" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5468.jpg" %}
 
 On n'a pas perdu la face sous la pluie :
-{% include image.html file="Mafate/bref/WA0021.jpg" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5469.jpg" %}
 
 Bref, grâce à la randonnée, on s'est sentis pousser des ailes :
-{% include image.html file="Mafate/bref/P1090020.JPG" %}
+{% include image.html file="Mafate/bref/68d63f04-5900-4952-a738-af5fb32e5470.jpg" %}
 
 ## Itinéraires complets
 

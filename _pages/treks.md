@@ -7,7 +7,7 @@ treks_2020:
     excerpt: "Mille-et-une nuits en Jordanie"
     url: "/Jordanie/preambule/"
 treks_2019:
-  - image_path: /assets/images/thumbs/P1080804.JPG
+  - image_path: /assets/images/thumbs/68d63f04-5900-4952-a738-af5fb32e5403.jpg
     excerpt: "Expéditions à Mafate"
     url: "/Mafate/J1/"
   - image_path: /assets/images/thumbs/98ac50da-f026-46d6-af96-ff584283b335.jpg
