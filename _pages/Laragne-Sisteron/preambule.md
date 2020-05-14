@@ -13,8 +13,8 @@ Cette fois-ci, je tente un trek :
 * en tendant encore plus vers le zéro déchet (cf. [Chemin Stevenson](/Chemin-Stevenson/preambule))
 * sans réchaud à énergie fossile.
 
-{% include image.html file="Laragne-Sisteron/preambule/P1070169.JPG" %}
+{% include image.html file="Laragne-Sisteron/preambule/fb8bdbce-33ea-4110-a3bc-1e691d0eb510.jpg" %}
 
 C'est parti [*il vagabondo siciliano*](/Sicile/mafiosi/#mickaël-il-vagabondo) !
 
-{% include image.html file="Laragne-Sisteron/preambule/P1070349.JPG" %}
+{% include image.html file="Laragne-Sisteron/preambule/fb8bdbce-33ea-4110-a3bc-1e691d0eb511.jpg" %}

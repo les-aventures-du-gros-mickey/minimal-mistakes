@@ -19,7 +19,7 @@ treks_2019:
   - image_path: /assets/images/thumbs/1f1f9a82-c663-40d8-9f00-10a53e3c3051.jpg
     excerpt: "Traversée des Bauges"
     url: "/Bauges/preambule/"
-  - image_path: /assets/images/thumbs/P1070194.JPG
+  - image_path: /assets/images/thumbs/fb8bdbce-33ea-4110-a3bc-1e691d0eb509.jpg
     excerpt: "De Laragne à Sisteron"
     url: "/Laragne-Sisteron/preambule/"
 treks_2018:

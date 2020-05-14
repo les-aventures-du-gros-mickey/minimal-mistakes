@@ -15,7 +15,7 @@ Ont été dézingués pendant ce trek :
 * 300 g de céréales
 * 800 g de fruits secs.
 
-{% include image.html file="Laragne-Sisteron/bilan/P1070165.JPG" description="Presque 3 kg de nourriture" %}
+{% include image.html file="Laragne-Sisteron/bref/fb8bdbce-33ea-4110-a3bc-1e691d0eb576.jpg" description="Presque 3 kg de nourriture" %}
 
 Ont survécu au trek :
 * 100 g de graines
@@ -34,7 +34,7 @@ Pas de ravitaillement implique pas de déchet !
 {% capture description %}
 La boîte à "popo" (papier toilette) et les noyaux de dattes
 {% endcapture %}
-{% include image.html file="Laragne-Sisteron/bilan/P1070419.JPG" description=description %}
+{% include image.html file="Laragne-Sisteron/bref/fb8bdbce-33ea-4110-a3bc-1e691d0eb577.jpg" description=description %}
 
 Les noyaux de dattes seront revalorisés en compost. Mais la prochaine fois je ne prends que des figues et j'aurai une poubelle vide :sunglasses:
 
