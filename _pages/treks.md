@@ -36,7 +36,7 @@ treks_2018:
     excerpt: "Chemin Stevenson"
     url: "/Chemin-Stevenson/preambule/"
 treks_2017:
-  - image_path: /assets/images/thumbs/P1050369.JPG
+  - image_path: /assets/images/thumbs/507ef0f6-3512-4ef2-9349-67b41ad05245.jpg
     excerpt: "De Larche à Barcelonnette"
     url: "/Larche-Barcelonnette/J1/"
   - image_path: /assets/images/thumbs/70f7cc3c-68fb-4d88-8a62-537d6fcb6972.jpg
