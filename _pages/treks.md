@@ -23,13 +23,13 @@ treks_2019:
     excerpt: "De Laragne à Sisteron"
     url: "/Laragne-Sisteron/preambule/"
 treks_2018:
-  - image_path: /assets/images/thumbs/P1070008.JPG
+  - image_path: /assets/images/thumbs/ff64e48f-514e-49ee-abdd-a318dae1e804.jpg
     excerpt: "Du Piton des Neiges au Butor"
     url: "/Piton-Butor/J1/"
-  - image_path: /assets/images/thumbs/P1060656.JPG
+  - image_path: /assets/images/thumbs/3cb7f198-77e9-44bc-afd5-1104ca435006.jpg
     excerpt: "De Modane à Briançon"
     url: "/Modane-Briancon/J1/"
-  - image_path: /assets/images/thumbs/IMG_0709.JPG
+  - image_path: /assets/images/thumbs/11235a5a-1c12-4614-8565-4a6816dcc305.jpg
     excerpt: "Mercantour nord"
     url: "/Mercantour-nord/J1/"
   - image_path: /assets/images/thumbs/85d7e4e1-88e1-4d4c-b1f7-6568cfc2a687.jpg
