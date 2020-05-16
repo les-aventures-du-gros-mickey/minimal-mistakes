@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/splash.jpg
+  overlay_image: /assets/images/9dfcb349-a62f-45dd-82f0-970435825057.jpg
 excerpt: >
     En l'abyssale cuirasse d'adulte ankylosé,<br/>
     Puéril cœur séquestré, noyé sous les pensées,<br/>
