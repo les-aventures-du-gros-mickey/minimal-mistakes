@@ -5,11 +5,11 @@ sidebar:
   nav: "sicile"
 ---
 
-{% include image.html file="Sicile/mafiosi/2018_06_26_11h58m49_Yoann_LG_20180626_115849.jpg" %}
+{% include image.html file="Sicile/mafiosi/0b95c715-710d-4492-bbba-85f8a846a808.jpg" %}
 
 ## Rita "*il padrino*"
 
-{% include image.html file="Sicile/mafiosi/2018_06_27_12h28m03_Yoann_Sony_DSC03186.JPG" %}
+{% include image.html file="Sicile/mafiosi/0b95c715-710d-4492-bbba-85f8a846a809.jpg" %}
 
 * Langues : :speech_balloon: :speech_balloon: :speech_balloon: :speech_balloon:
 * Blagues pourries : :laughing: :laughing: :laughing: :laughing: :laughing:
@@ -23,7 +23,7 @@ sidebar:
 
 ## Wilfried "*il tranquilo*"
 
-{% include image.html file="Sicile/mafiosi/2018_06_24_12h48m21_Yoann_Sony_DSC02798.JPG" %}
+{% include image.html file="Sicile/mafiosi/0b95c715-710d-4492-bbba-85f8a846a810.jpg" %}
 
 * Langues : :speech_balloon: :speech_balloon: :speech_balloon: :speech_balloon:
 * Blagues pourries : :laughing: :laughing: :laughing: :laughing: :laughing:
@@ -37,7 +37,7 @@ sidebar:
 
 ## Yoann "*il paparazzo*"
 
-{% include image.html file="Sicile/mafiosi/2018_07_04_11h10m33_Yoann_Sony_DSC03980.JPG" %}
+{% include image.html file="Sicile/mafiosi/0b95c715-710d-4492-bbba-85f8a846a811.jpg" %}
 
 * Langues : :speech_balloon:
 * Blagues pourries : :laughing: :laughing: :laughing: :laughing: :laughing:
@@ -51,7 +51,7 @@ sidebar:
 
 ## Mickaël "*il vagabondo*"
 
-{% include image.html file="Sicile/mafiosi/2018_06_26_12h36m15_Yoann_Sony_DSC03113.JPG" %}
+{% include image.html file="Sicile/mafiosi/0b95c715-710d-4492-bbba-85f8a846a812.jpg" %}
 
 * Langues : :speech_balloon: :speech_balloon: :speech_balloon: :speech_balloon:
 * Blagues pourries : :laughing: :laughing: :laughing: :laughing: :laughing:

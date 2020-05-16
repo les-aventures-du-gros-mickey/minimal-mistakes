@@ -7,7 +7,7 @@ voyages_2020:
     excerpt: "Mille-et-une nuits en Jordanie"
     url: "/Jordanie/preambule/"
 voyages_2018:
-  - image_path: /assets/images/thumbs/LG_20180626_115849.jpg
+  - image_path: /assets/images/thumbs/0b95c715-710d-4492-bbba-85f8a846a807.jpg
     excerpt: "I mafiosi in Sicilia"
     url: "/Sicile/mafiosi/"
 voyages_2017:
