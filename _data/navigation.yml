@@ -34,6 +34,20 @@ citations:
     - title: "Grandir"
       url: /citations#grandir
 
+vercors:
+  - title: "Traversée du Vercors"
+    children:
+      - title: "Préambule"
+        url: /Vercors/preambule/
+      - title: "De Chabeuil à la montagne de Beure"
+        url: /Vercors/J1-J2-J3/
+      - title: "De la montagne de Beure aux Aiguillettes"
+        url: /Vercors/J4-J5-J6/
+      - title: "Des Aiguillettes à Grenoble"
+        url: /Vercors/J7-J8-J9/
+      - title: "En bref"
+        url: /Vercors/bref/
+
 jordanie:
   - title: "Mille-et-une nuits en Jordanie"
     children:
