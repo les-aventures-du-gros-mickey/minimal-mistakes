@@ -1,8 +1,8 @@
 ﻿---
 title: "En bref"
-permalink: /Jordanie/bref/
+permalink: /Vercors/bref/
 sidebar:
-  nav: "jordanie"
+  nav: "vercors"
 enable_tracks: true
 ---
 
@@ -34,7 +34,7 @@ Bref, j'ai retrouvé la liberté !
 
 ## Itinéraire complet
 
-{% include track.html file="Jordanie/bref.gpx" %}
+{% include track.html file="Vercors/bref.gpx" %}
 
 Détails d'étapes :
 * 9 étapes
