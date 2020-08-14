@@ -34,6 +34,18 @@ citations:
     - title: "Grandir"
       url: /citations#grandir
 
+belledonne:
+  - title: "Traversée de Belledonne"
+    children:
+      - title: "D'Aiguebelle à Périoule"
+        url: /Belledonne/J1-J2-J3/
+      - title: "De Périoule au pas de la Coche"
+        url: /Belledonne/J4-J5/
+      - title: "Du pas de la Coche à Vizille"
+        url: /Belledonne/J6-J7-J8/
+      - title: "En bref"
+        url: /Belledonne/bref/
+
 vercors:
   - title: "Traversée du Vercors"
     children:

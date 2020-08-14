@@ -3,6 +3,9 @@ title: "Treks"
 permalink: /treks/
 layout: splash
 treks_2020:
+  - image_path: /assets/images/thumbs/a66653ab-c997-4618-b294-d40e74caa503.jpg
+    excerpt: "Traversée de Belledonne"
+    url: "/Belledonne/J1-J2-J3/"
   - image_path: /assets/images/thumbs/e2b2a572-b917-4942-ab4b-a69493c50623.jpg
     excerpt: "Traversée du Vercors"
     url: "/Vercors/preambule/"
