@@ -14,25 +14,43 @@ citations:
 - title: "Citations"
   children:
     - title: "Préambule"
-      url: /citations#préambule
+      url: /citations#preambule
     - title: "Société"
-      url: /citations#société
+      url: /citations#societe
     - title: "Effondrement"
       url: /citations#effondrement
     - title: "Éphémérité"
-      url: /citations#éphémérité
+      url: /citations#ephemerite
     - title: "Évasion"
-      url: /citations#évasion
+      url: /citations#evasion
     - title: "Nature"
       url: /citations#nature
+    - title: "Prendre le temps"
+      url: /citations#prendre-le-temps
     - title: "Liberté"
-      url: /citations#liberté
+      url: /citations#liberte
     - title: "Âme d'enfant"
-      url: /citations#âme-denfant
+      url: /citations#ame-d-enfant
     - title: "Rêve"
-      url: /citations#rêve
+      url: /citations#reve
     - title: "Grandir"
       url: /citations#grandir
+
+granit_rose:
+  - title: "Côte de granit rose"
+    children:
+      - title: "Préambule"
+        url: /Granit-rose/preambule/
+      - title: "De Port Clos à Lézardrieux"
+        url: /Granit-rose/J1-J2/
+      - title: "De Lézardrieux à la Pointe Jaune"
+        url: /Granit-rose/J3-J4/
+      - title: "De la Pointe Jaune à Trébeurden"
+        url: /Granit-rose/J5-J6-J7/
+      - title: "Bonus"
+        url: /Granit-rose/bonus/
+      - title: "En bref"
+        url: /Granit-rose/bref/
 
 belledonne:
   - title: "Traversée de Belledonne"

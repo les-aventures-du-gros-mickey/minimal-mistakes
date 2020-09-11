@@ -4,6 +4,7 @@ id:      map unique ID [optional, default: my-one-and-only-map]
 layers:  layers to display [optional, default: IGN,Ortho,OTM,TF,OSM]
 fit_map: set whether to fit map or not (else it is a center-zoom) [optional, default: true]
 zoom:    zoom level (used only if fit_map == false) [optional, default: 12]
+markers: markers to use [optional, default: default, options: default,custom-start-and-end-points]
 {% endcomment %}
 {% capture id %}{{ include.id | default: "my-one-and-only-map" }}{% endcapture %}
 <div id="{{ id }}" style="height: 400px;"></div>
@@ -22,7 +23,16 @@ zoom:    zoom level (used only if fit_map == false) [optional, default: 12]
     if (i == 0) widgets['{{ id }}'].map = L.map('{{ id }}', { layers: [ current_layer ] })
   }
 
-  widgets['{{ id }}'].track = new L.GPX('/assets/tracks/{{ include.file }}', { async: true, marker_options: DEFAULT_MARKER_OPTIONS })
+  if ('{{ include.markers }}' == 'custom-start-and-end-points') {
+    marker_options = {
+      wptIcons: DEFAULT_MARKER_OPTIONS.wptIcons
+    }
+    marker_options.wptIcons['depart']  = DEFAULT_MARKER_OPTIONS.startIcon
+    marker_options.wptIcons['arrivee'] = DEFAULT_MARKER_OPTIONS.endIcon
+  } else {
+    marker_options = DEFAULT_MARKER_OPTIONS
+  }
+  widgets['{{ id }}'].track = new L.GPX('/assets/tracks/{{ include.file }}', { async: true, marker_options: marker_options })
   if ({{ include.fit_map | default: true}}) {
     initialize_map = function(e) { widgets['{{ id }}'].map.fitBounds(e.target.getBounds()) }
   } else {

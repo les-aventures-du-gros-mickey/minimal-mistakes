@@ -3,6 +3,9 @@ title: "Treks"
 permalink: /treks/
 layout: splash
 treks_2020:
+  - image_path: /assets/images/thumbs/055f3f9f-d98f-4969-aa22-fdd1a9fb5103.jpg
+    excerpt: "Côte de Granit rose"
+    url: "/Granit-rose/preambule/"
   - image_path: /assets/images/thumbs/a66653ab-c997-4618-b294-d40e74caa503.jpg
     excerpt: "Traversée de Belledonne"
     url: "/Belledonne/J1-J2-J3/"

@@ -5,13 +5,13 @@ sidebar:
   nav: "citations"
 ---
 
-## Préambule
+## Préambule {#preambule}
 
 Récits, fictions, documentaires, musiques, poèmes etc. sont autant de façons de rêver, vivre des aventures, réfléchir sur le monde qui nous encoure ou tout simplement se découvrir soi-même.
 
 Bref, voici quelques citations qui me tiennent à cœur :wink:
 
-## Société
+## Société {#societe}
 
 > Je suis un militant quotidien<br/>
 > De l'inhumanité<br/>
@@ -54,7 +54,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Radiohead <cite>Fitter Happier</cite>
 
-## Effondrement
+## Effondrement {#effondrement}
 
 > Est-ce que l'on peut "chauffer l'ambiance" comme l'on réchauffe la planète ?<br/>
 > Est-ce qu'on peut faire "monter l'audience" comme on fait monter les eaux ?<br/>
@@ -89,7 +89,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Euzen <cite>The Great Escape</cite>
 
-## Éphémérité
+## Éphémérité {#ephemerite}
 
 > Partout cette même poussière dans l'air<br/>
 > Cette même poussière dans l'air<br/>
@@ -107,7 +107,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Robert Herrick <cite>To The Virgins, To Make Much Of Time</cite>
 
-## Évasion
+## Évasion {#evasion}
 
 > Il voudrait tout changer, il y pense, il se le dit<br/>
 > [...]<br/>
@@ -128,7 +128,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Gaël Faye <cite>Je pars</cite>
 
-## Nature
+## Nature {#nature}
 
 > Aller seule dans la nature me rapproche de l'animal, des instincts primaires, où les sens s'aiguisent pour déceler ce qui échappe à l'esprit
 
@@ -141,7 +141,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Omnia <cite>Earth Warrior</cite>
 
-## Prendre le temps
+## Prendre le temps {#prendre-le-temps}
 
 > Baissons l'allure et le temps lui-même, par un étrange effet d'imitation, ralentira son débit.<br/>
 
@@ -151,7 +151,15 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Cédric Sapin-Defour <cite>Les chercheurs d'ores (Double Espresso)</cite>
 
-## Liberté
+> Prendre son temps est un moyen de ne pas le perdre, et nous accorde de vivre l'instant présent de manière à le capter pleinement et le stocker dans sa mémoire comme un écureuil le ferait pour ses provisions hivernales, les savourant dans la durée et les transfigurant en souvenir fécond.
+
+> Michel Simonet <cite>Une rose et un balai : petit traité de sagesse d'un balayeur de rue</cite>
+
+> Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.
+
+> Oogway <cite>Kung Fu Panda</cite>
+
+## Liberté {#liberte}
 
 > L'arrache, y a qu'ça qui marche !<br/>
 
@@ -172,7 +180,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Omnia <cite>Free</cite>
 
-## Âme d'enfant
+## Âme d'enfant {#ame-d-enfant}
 
 > Where is the wonder? Where's the awe?<br/>
 > Where are the sleepless nights I used to live for?<br/>
@@ -189,7 +197,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Cédric Sapin-Defour <cite>Cap ? (Double Espresso)</cite>
 
-## Rêve
+## Rêve {#reve}
 
 > A rainbow in his eyes and a song to make him smile<br/>
 > Yeah, a rainbow in his eyes and a flower on his mind<br/>
@@ -237,7 +245,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Sylvain Tesson <cite>Petit traité sur l'immensité du monde</cite>
 
-## Grandir
+## Grandir {#grandir}
 
 > From the seed of madness grows the tree of wisdom<br/>
 
@@ -246,13 +254,6 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 > Chaque jour est une petite bataille à mener. Une opportunité de créer une autre réalité. Et cela commence aujourd'hui.<br/>
 
 > Cyril Dion <cite>Petit manuel résistance contemporaine
-
-> What doesn't kill you makes you stronger<br/>
-> Your victory will live forever<br/>
-> Keep fighting for the riot inside<br/>
-> Believe and carry on<br/>
-
-> Myrath <cite>Believer</cite>
 
 > [...] en montagne ou ailleurs, l'intuition, ça n'existe pas. [...]<br/>
 > Au début, [...] l'inconscience de notre incompétence peut nous tuer [...]. Si elle ne le fait pas, alors notre intuition des débuts s'est appelée la chance. [...]<br/>
