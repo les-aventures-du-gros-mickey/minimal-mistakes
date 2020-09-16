@@ -107,6 +107,14 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Robert Herrick <cite>To The Virgins, To Make Much Of Time</cite>
 
+> Mais au bout du ch'min dis-moi c'qui va rester <br/>
+> De not' p'tit passage dans ce monde effréné<br/>
+> Après avoir existé pour gagner du temps<br/>
+> On s'dira que l'on était final'ment<br/>
+> Des étoiles filantes<br/>
+
+> Les Cowboys Fringants <cite>Les Étoiles Filantes</cite>
+
 ## Évasion {#evasion}
 
 > Il voudrait tout changer, il y pense, il se le dit<br/>
@@ -196,6 +204,20 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 > As-tu mis de l'insouciance dans ta journée ?<br/>
 
 > Cédric Sapin-Defour <cite>Cap ? (Double Espresso)</cite>
+
+> Hey, mon vilain petit gars<br/>
+> Tu n'écoutes pas<br/>
+> Quand la maîtresse compte jusqu'à trois<br/>
+> La maîtresse, la maîtresse<br/>
+> Quand la maîtresse compte jusqu'à trois<br/>
+> <br/>
+> Non, je n'ai pas écouté<br/>
+> Mais pour compter<br/>
+> J'ai des cailloux dans les poches et puis mes dix doigts<br/>
+> Mes dix doigts, oui, j'ai mes dix doigts<br/>
+> Et les étoiles quand c'est plus que ça<br/>
+
+> Cécile Corbel <cite>Un pull de laine</cite>
 
 ## Rêve {#reve}
 
