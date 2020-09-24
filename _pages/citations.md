@@ -173,7 +173,7 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 
 > Tof
 
-> [We wrote a little song : what it's like to think and to live out of the box? And we called this song "Free"]<br/>
+> [We wrote a little song: what it's like to think and to live out of the box? And we called this song "Free"]<br/>
 > [...]<br/>
 > Everywhere<br/>
 > People point and stare<br/>
@@ -187,6 +187,11 @@ Bref, voici quelques citations qui me tiennent à cœur :wink:
 > I'm free<br/>
 
 > Omnia <cite>Free</cite>
+
+> Je n'veux pas me marier<br/>
+> Je veux courir dans les blés<br/>
+
+> Cécile Corbel <cite>Le Bal des Chats</cite>
 
 ## Âme d'enfant {#ame-d-enfant}
 
