@@ -2,6 +2,10 @@
 title: "Treks"
 permalink: /treks/
 layout: splash
+treks_2021:
+  - image_path: /assets/images/thumbs/2693d9f9-892c-44e8-82c0-a6f9f2fdd204.jpg
+    excerpt: "Au fil du Bas Verdon"
+    url: "/Bas-Verdon/J1-J2-J3/"
 treks_2020:
   - image_path: /assets/images/thumbs/055f3f9f-d98f-4969-aa22-fdd1a9fb5103.jpg
     excerpt: "Côte de Granit rose"
@@ -56,6 +60,10 @@ treks_2017:
 ## Préambule
 
 Si tu souhaites t'inspirer de mes treks, avant de foncer tête baissée, jette un œil aux [avertissements](#avertissements) et [conseils](#conseils) :wink:
+
+## 2021
+
+{% include feature_row id="treks_2021" %}
 
 ## 2020
 
