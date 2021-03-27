@@ -1,7 +1,7 @@
 {% comment %}
 file:    GPX file to display [mandatory]
 id:      map unique ID [optional, default: my-one-and-only-map]
-layers:  layers to display [optional, default: IGN,Ortho,OTM,TF,OSM]
+layers:  layers to display [optional, default: TF,OTM,OSM,Ortho]
 fit_map: set whether to fit map or not (else it is a center-zoom) [optional, default: true]
 zoom:    zoom level (used only if fit_map == false) [optional, default: 12]
 markers: markers to use [optional, default: default, options: default,custom-start-and-end-points]
@@ -13,11 +13,10 @@ markers: markers to use [optional, default: default, options: default,custom-sta
   if (typeof widgets == 'undefined') { widgets = { } }
   widgets['{{ id }}'] = { layers: { }, track: { }, map: { } }
 
-  for ([i, alias] of '{{ include.layers | default: "TF,OTM,OSM,IGN,Ortho" }}'.split(',').entries()) {
+  for ([i, alias] of '{{ include.layers | default: "TF,OTM,OSM,Ortho" }}'.split(',').entries()) {
     if (alias == 'TF')    current_layer = widgets['{{ id }}'].layers['Thunderforest'] =        L.tileLayer.provider('Thunderforest.Landscape', { apikey: 'aa6d138c951e413cae47373621fa6464' })
     if (alias == 'OTM')   current_layer = widgets['{{ id }}'].layers['OpenTopoMap'] =          L.tileLayer.provider('OpenTopoMap')
     if (alias == 'OSM')   current_layer = widgets['{{ id }}'].layers['OpenStreetMap'] =        L.tileLayer.provider('OpenStreetMap')
-    if (alias == 'IGN')   current_layer = widgets['{{ id }}'].layers['IGN'] =                  L.tileLayer.provider('GeoportailFrance.ignMaps')
     if (alias == 'Ortho') current_layer = widgets['{{ id }}'].layers['Orthophoto'] =           L.tileLayer.provider('GeoportailFrance.orthos')
     if (alias == 'OSMFR') current_layer = widgets['{{ id }}'].layers['OpenStreetMap France'] = L.tileLayer.provider('OpenStreetMap.France')
     if (i == 0) widgets['{{ id }}'].map = L.map('{{ id }}', { layers: [ current_layer ] })
