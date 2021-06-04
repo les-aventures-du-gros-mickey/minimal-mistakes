@@ -3,6 +3,10 @@ title: "Treks"
 permalink: /treks/
 layout: splash
 treks_2021:
+  - image_path: /assets/images/thumbs/2e25794f-60ea-4565-b943-d729b5bdf819.jpg
+    excerpt: "De feu et de glace : la chaîne des Puys"
+    url: "/Chaine-Puys/J1-J2/"
+
   - image_path: /assets/images/thumbs/2693d9f9-892c-44e8-82c0-a6f9f2fdd204.jpg
     excerpt: "Au fil du Bas Verdon"
     url: "/Bas-Verdon/J1-J2-J3/"

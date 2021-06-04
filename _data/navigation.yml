@@ -36,6 +36,16 @@ citations:
     - title: "Grandir"
       url: /citations#grandir
 
+chaine_puys:
+  - title: "De feu et de glace : la chaîne des Puys"
+    children:
+      - title: "De Volvic au Puy de l'Enfer"
+        url: /Chaine-Puys/J1-J2/
+      - title: "Du Puy de l'Enfer à Égliseneuve-d'Entraigues"
+        url: /Chaine-Puys/J3-J4/
+      - title: "En bref"
+        url: /Chaine-Puys/bref/
+
 bas_verdon:
   - title: "Au fil du Bas Verdon"
     children:
