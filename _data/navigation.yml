@@ -36,6 +36,16 @@ citations:
     - title: "Grandir"
       url: /citations#grandir
 
+taillefer_vercors:
+  - title: "Du Taillefer au Vercors"
+    children:
+      - title: "Du lac de Poursollet à Saint-Georges-de-Commiers"
+        url: /Taillefer-Vercors/J1-J2-J3-J4/
+      - title: "De Saint-Georges-de-Commiers à Saint-Agnan-en-Vercors"
+        url: /Taillefer-Vercors/J5-J6-J7/
+      - title: "En bref"
+        url: /Taillefer-Vercors/bref/
+
 chaine_puys:
   - title: "De feu et de glace : la chaîne des Puys"
     children:

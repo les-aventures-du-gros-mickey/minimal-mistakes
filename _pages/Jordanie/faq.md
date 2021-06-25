@@ -51,7 +51,7 @@ Au milieu d'une région plutôt agitée (selon les médias), la Jordanie est, de
 
 On n'a malheureusement cotoyé que de très rares femmes. Sandy a pu passer du côté féminin dans un campement bédouin, mais très brièvement.
 
-Mon ressenti c'est que la situtation générale est plutôt encourageante :
+Mon ressenti c'est que la situation générale est plutôt encourageante :
 * dans les grandes villes, très occidentalisées, les femmes sortent régulièrement dans les bars, pour fumer la chicha par exemple
 * à *Iraq Al-Amir*, il y a une coopérative exclusivement gérée par des femmes (la barrière de la langue ne m'a cependant pas permis d'aborder le sujet en détails)
 * la reine {% include gloss.html base_text="Ranīa" annotations_1="رانيا" %} lutte activement pour le droit des femmes.
